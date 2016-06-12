@@ -1,0 +1,22 @@
+<built-in function id>,Word,Position,Predicted,Correct
+0,and,93,Organisation,No
+1,research,97,Organisation,No
+2,Greene,123,No,PopulatedPlace
+3,County,124,No,PopulatedPlace
+4,Greene,167,No,PopulatedPlace
+5,County,168,No,PopulatedPlace
+6,Cornelius,215,Person,No
+7,Van,216,Person,No
+8,Slyke,217,Person,No
+9,Greene,221,No,PopulatedPlace
+10,County,222,No,PopulatedPlace
+11,Schenectady,242,No,PopulatedPlace
+12,County,243,No,PopulatedPlace
+13,",",244,No,PopulatedPlace
+14,New,245,No,PopulatedPlace
+15,York,246,No,PopulatedPlace
+16,southern,257,PopulatedPlace,No
+17,Tulip,969,No,PopulatedPlace
+18,Cornelius,1013,Person,No
+19,Van,1014,Person,No
+20,Slyke,1015,Person,No

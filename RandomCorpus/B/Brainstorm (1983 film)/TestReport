@@ -1,0 +1,27 @@
+<built-in function id>,Word,Position,Predicted,Correct
+0,Douglas,9,No,Person
+1,Trumbull,10,No,Person
+2,Natalie,16,No,Person
+3,Wood,17,No,Person
+4,Louise,19,No,Person
+5,Fletcher,20,No,Person
+6,Trumbull,53,No,Person
+7,Hal,190,Person,No
+8,Abramson,191,Person,No
+9,Hal,933,Person,No
+10,Abramson,934,Person,No
+11,Trumbull,947,No,Person
+12,Northern,967,PopulatedPlace,No
+13,California,968,PopulatedPlace,No
+14,North,986,PopulatedPlace,No
+15,Carolina,987,PopulatedPlace,No
+16,Trumbull,1077,No,Person
+17,Trumbull,1110,No,Person
+18,Trumbull,1202,No,Person
+19,Trumbull,1258,No,Person
+20,Trumbull,1347,No,Person
+21,Trumbull,1419,No,Person
+22,Trumbull,1468,No,Person
+23,Janet,1633,Person,No
+24,Maslin,1634,Person,No
+25,Trumbull,1691,No,Person

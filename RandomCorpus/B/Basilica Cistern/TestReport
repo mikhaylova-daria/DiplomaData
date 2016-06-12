@@ -1,0 +1,27 @@
+<built-in function id>,Word,Position,Predicted,Correct
+0,Turkey,26,No,PopulatedPlace
+1,Byzantine,54,No,PopulatedPlace
+2,Emperor,55,Person,No
+3,Illus,131,No,Person
+4,Sophia,155,PopulatedPlace,No
+5,Emperor,174,Person,No
+6,Justinian,175,Person,No
+7,Ottoman,236,No,PopulatedPlace
+8,Sophia,443,PopulatedPlace,No
+9,Forest,504,PopulatedPlace,No
+10,Justinian,536,Person,No
+11,Ottoman,610,No,PopulatedPlace
+12,Ahmed,620,No,Person
+13,III,621,No,Person
+14,Muhammad,627,Person,No
+15,Agha,628,Person,No
+16,Sultan,646,No,Person
+17,Abdulhamid,647,No,Person
+18,II,648,No,Person
+19,Metropolitan,672,PopulatedPlace,No
+20,James,881,No,Person
+21,Bond,882,No,Person
+22,Soviet,916,No,PopulatedPlace
+23,",",947,PopulatedPlace,No
+24,Robert,1085,Person,No
+25,Langdon,1086,Person,No

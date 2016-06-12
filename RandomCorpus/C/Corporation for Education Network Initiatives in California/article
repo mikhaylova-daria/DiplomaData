@@ -1,0 +1,59 @@
+The Corporation for Education Network Initiatives in California (CENIC) is a nonprofit corporation formed in 1996 to provide high-performance, high-bandwidth networking services to California universities and research institutions. Through this corporation, representatives from all of California's K-20 public education combine their networking resources toward the operation, deployment, and maintenance of the California Research and Education Network, or CalREN.
+
+Participants
+
+Charter institutions connected to the CalREN backbone include:
+
+* All 10 campuses of the University of California system, all UC medical centers, and the UC Office of the President
+* All 23 campuses of the California State University system, offsite centers, and the CSU Chancellor's Office
+* All 112 campuses of the California Community College system and off-site centers
+* All County Offices of Education in California's K-12 system and via those offices, over 8,000 K-12 schools
+* Other universities including
+** The California Institute of Technology
+** Stanford University
+** The University of Southern California
+
+Other non-charter participants include:
+* The Nevada System of Higher Education
+* The Naval Postgraduate School
+* The NASA Ames Research Center
+* The University of San Francisco
+* The University of San Diego
+* Pepperdine University
+* National University
+
+The California Research and Education Network
+CalREN is a three-tiered network consisting of a statewide optical backbone to which schools and other institutions in California connect at Gigabit speeds via leased circuits obtained from telecom carriers or fiber-optic cable. These tiers include:
+
+* CalREN-DC (Digital California): This tier includes services for all K-20 California research and education users. Backbone speed for this tier is 10 Gbit/s.
+* CalREN-HPR (High-Performance Research): This tier includes leading-edge services for large application users. Backbone speed for this tier is 40 Gbit/s.
+* CalREN-XD (Experimental and Developmental): This tier consists of a set of network resources that can be built to order to facilitate bleeding-edge services for network and other researchers. This tier has no set maximum bandwidth.
+
+All three network tiers operate independently. This enables network and other researchers on the XD and HPR tiers to push the boundaries of network research and performance without impacting performance for the other tiers.
+
+Network peering
+CENIC also engages in networking peering relationships, in particular Pacific Wave (a joint project between CENIC and the Pacific Northwest Gigapop, the University of Southern California, and the University of Washington), which provides peering facilities along the Pacific coast of the United States. Pacific Wave participants include networks in Australia, Canada, Japan, Korea, Qatar, Taiwan, Singapore, and the United States.
+
+CENIC engaged in peering via the TransitRail national-level peering structure. TransitRail was recently merged with Internet2's Commodity Peering Service.
+
+CENIC and other networks
+CalREN also connects to the California Telehealth Network, ESnet (Energy Sciences Network), Internet2, National LambdaRail, CUDI (the Corporación Universitaria para el Desarrollo de Internet), the Mexican high-bandwidth research and education network, redCLARA (the Cooperación Latino-Americana de Redes Avanzadas), and CAnet4 (the Canadian optical research and education network, managed by CANARIE).
+
+CENIC is also a member of the Global Lambda Integrated Facility, which promotes optical networking to support grid computing.
+
+ K12 High Speed Network 
+CalREN was expanded by funding through the state of California and its Digital California Project to include K-12 public education. When funding sources changed, the K-12 portion became the K-12 High Speed Network (K12HSN), which is managed by the Imperial County Office of Education.
+
+External links
+* 
+* www.pacificwave.net pacificwave.net
+* www.transitrail.net transitrail.net
+* www.glif.is glif.is
+* www.k12hsn.org K12HSN.org
+
+
+
+
+
+
+

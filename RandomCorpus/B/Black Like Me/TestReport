@@ -1,0 +1,21 @@
+<built-in function id>,Word,Position,Predicted,Correct
+0,Greyhound,35,No,Organisation
+1,",",48,PopulatedPlace,No
+2,",",50,PopulatedPlace,No
+3,Georgia,54,No,PopulatedPlace
+4,Langston,203,No,Person
+5,Hughes,204,No,Person
+6,New,231,PopulatedPlace,No
+7,Orleans,232,PopulatedPlace,No
+8,Louisiana,234,No,PopulatedPlace
+9,French,398,No,PopulatedPlace
+10,Quarter,399,No,PopulatedPlace
+11,Mansfield,656,No,PopulatedPlace
+12,",",657,No,PopulatedPlace
+13,Texas,658,No,PopulatedPlace
+14,Studs,851,No,Person
+15,Terkel,852,No,Person
+16,Don,857,Person,No
+17,Rutledge,858,Person,No
+18,Robert,864,Person,No
+19,Bonazzi,865,Person,No

@@ -1,0 +1,12 @@
+<built-in function id>,Word,Position,Predicted,Correct
+0,Nietzsche,70,No,Person
+1,Foucault,72,No,Person
+2,Foucault,98,No,Person
+3,Charles,160,No,Person
+4,Taylor,161,No,Person
+5,Foucault,163,No,Person
+6,Foucault,199,No,Person
+7,Niklas,217,No,Person
+8,Luhmann,218,No,Person
+9,Stanley,337,No,Person
+10,Fish,338,No,Person

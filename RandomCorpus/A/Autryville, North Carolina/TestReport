@@ -1,0 +1,27 @@
+<built-in function id>,Word,Position,Predicted,Correct
+0,County,30,No,PopulatedPlace
+1,South,35,PopulatedPlace,No
+2,Cumberland,39,No,PopulatedPlace
+3,County,40,No,PopulatedPlace
+4,",",41,No,PopulatedPlace
+5,Micajah,111,No,Person
+6,Autry,112,No,Person
+7,Sampson,115,No,PopulatedPlace
+8,County,116,No,PopulatedPlace
+9,Davy,137,No,Person
+10,Crockett,138,No,Person
+11,Ghent,174,PopulatedPlace,No
+12,Jackson,192,No,PopulatedPlace
+13,",",193,No,PopulatedPlace
+14,Tennessee,194,No,PopulatedPlace
+15,Texas,205,No,PopulatedPlace
+16,Micajah,307,No,Person
+17,Autry,308,No,Person
+18,Micajah,318,No,Person
+19,Autry,319,No,Person
+20,Sampson,717,No,PopulatedPlace
+21,County,718,No,PopulatedPlace
+22,Chevrolet,763,No,Organisation
+23,Micajah,841,No,Person
+24,Autry,842,No,Person
+25,Texas,862,No,PopulatedPlace

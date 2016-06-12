@@ -1,0 +1,16 @@
+<built-in function id>,Word,Position,Predicted,Correct
+0,Andreas,0,No,Person
+1,Hammerschmidt,1,No,Person
+2,Bohemian,22,PopulatedPlace,No
+3,",",68,PopulatedPlace,No
+4,Saxon,71,No,PopulatedPlace
+5,",",86,PopulatedPlace,No
+6,Christoph,123,No,Person
+7,Zittau,248,No,PopulatedPlace
+8,Zittau,261,No,PopulatedPlace
+9,Zittau,276,No,PopulatedPlace
+10,Zittau,326,No,PopulatedPlace
+11,Germany,367,PopulatedPlace,No
+12,Manfred,480,No,Person
+13,Bukofzer,481,No,Person
+14,Italy,552,No,PopulatedPlace

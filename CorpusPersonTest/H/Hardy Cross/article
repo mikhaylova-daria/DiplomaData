@@ -1,0 +1,29 @@
+Hardy Cross (1885, Nansemond County, Virginia–1959) was an American structural engineer and the developer of the moment distribution method for structural analysis of statically indeterminate structures. The method was in general use from c. 1935 until c. 1960 when it was gradually superseded by other methods. 
+
+Early life
+Cross was born to Virginia planter Thomas Hardy Cross and his wife Eleanor Elizabeth Wright. He had an elder brother, Tom Peete Cross, who would later become a Celtic studies scholar. Both studied at Norfolk Academy. He obtained a BS in civil engineering from the Massachusetts Institute of Technology in 1908, and then joined the bridge department of the Missouri Pacific Railroad in St. Louis, where he remained for a year, after which he returned to Norfolk Academy in 1909. After a year of graduate study at Harvard he was awarded the MCE degree in 1911. Hardy Cross developed the moment distribution method while working at Harvard university.
+
+Career
+Cross next became an assistant professor of civil engineering at Brown University, where he taught for seven years. After a brief return to general engineering practice, he accepted a position as professor of structural engineering at the University of Illinois at Urbana-Champaign, in 1921. At the University of Illinois Hardy Cross developed his moment distribution method. He left Illinois in 1937 to become the chair of the civil engineering department at Yale University, a position from which he retired in 1953.
+
+Accurate structural analysis of statically indeterminate beams and frames could be performed by hand using the moment distribution method. In this method, the fixed-end moments in the framing members are gradually distributed to adjacent members in a number of steps such that the system eventually reaches its natural equilibrium configuration. However the method was still an approximation but it could be solved to be very close to the actual solution.
+
+The Hardy Cross method is essentially the Jacobi iterative scheme applied to the displacement formulation of structural analysis.
+
+Today the "moment distribution" method is no longer commonly used because computers have changed the way engineers evaluate structures, and moment distribution programs are seldom created nowadays. Today's structural analysis software is based on the flexibility method, direct stiffness method or finite element methods (FEM).
+
+Another Hardy Cross method is also famous for modeling flows in complex water supply networks. Until recent decades, it was the most common method for solving such problems.
+
+He received numerous honors. Among these were an honorary Master of Arts degree from Yale University, the Lamme Medal of the American Society for Engineering Education (1944), the Wason Medal for Most Meritorious Paper of the American Concrete Institute (1935), and the Gold Medal of the Institution of Structural Engineers of Great Britain (1959).
+
+ Hardy Cross Method 
+
+Hardy Cross's description of his method follows: "Moment Distribution. The method of moment distribution is this: 
+# Imagine all joints in the structure held so that they cannot rotate and compute the moments at the ends of the members for this condition;
+# at each joint distribute the unbalanced fixed-end moment among the connecting members in proportion to the constant for each member defined as "stiffness";
+# multiply the moment distributed to each member at a joint by the carry-over factor at the end of the member and set this product at the other end of the member;
+# distribute these moments just "carried over";
+# repeat the process until the moments to be carried over are small enough to be neglected; and
+# add all moments – fixed-end moments, distributed moments, moments carried over – at each end of each member to obtain the true moment at the end."
+Cross 1949:2
+

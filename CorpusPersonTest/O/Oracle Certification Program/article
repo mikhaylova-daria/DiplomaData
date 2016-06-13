@@ -1,0 +1,217 @@
+The Oracle Certification Program is the IT professional certification offered by Oracle University for products and services by Oracle and those acquired from Sun Microsystems, including Java, MySQL, and Solaris. Typically, a multiple choice exam taken in a testing center accredited by Pearson VUE must be passed in order to obtain a certification. Certifications issued by Oracle never expire.
+
+These certifications are particularly designed for administrators, programmers, and developers.
+
+Requirements
+
+Oracle University offers different kinds of certifications for different products and services that Oracle offers. 
+A candidate will typically choose a certain certification for a product he/she wants to apply. The candidate should pass an exam associated to this certification in a testing center accredited by Pearson VUE.
+
+Prior for applying a certification, a candidate should register for a Pearson VUE account and Oracle CertView as well. An exam voucher should be purchased from Oracle University or Pearson VUE website, or an Oracle Partner reseller. The candidate should register the voucher to the Pearson VUE website, select the exam relevant to the certification, choose the testing center, and schedule the test. Before going to the testing center, the candidate should bring two identification cards with photo, one should be government-issued. A purchased exam voucher should be used within one year or it will be forfeited without any refund.
+
+A candidate can prepare for the exam by attending training and prep seminars, offered by Oracle University and practice tests from Kaplan and Transcender. These are optional and not required to have a certification.
+
+If the candidate failed the exam, a 14 day waiting period should pass before retaking the exam. an exam voucher should be purchased again. If the candidate fails to show up on the scheduled testing time and date, the exam will be voided and no refund shall be given. There are restrictions for candidates who are coming from Cuba, Iran, North Korea, Sudan, and Syria. A candidate who is minor should have a consent from his/her parent or guardian.
+
+Typically, one exam is associated with a certification. However, some certifications require two. Aside from a passed exam, some certifications requires the candidate to attend training at Oracle University. For Java EE Master certification, the exams are not multiple choice, instead an assignment which should be finished and an essay exam as well. All of them should be finished within 30 days.
+
+Categories
+
+There are five categories for the program. These are: Associate, Professional, Master, Expert, and Specialist.
+
+*Associate — Fundamental skills and knowledge
+*Professional — Professional skill and technical expertise required to manage, develop, or implement enterprise-wide databases, middleware, or applications
+*Master — Advanced level of skills, knowledge, and proven ability
+*Expert — Competency in specific technologies, architectures or domains not currently covered in the path-based certification model
+*Specialist — Foundation-level implementation-oriented certifications targeted at employees of current Oracle partners
+
+For a certain certification path, an Associate certification is required for Professional, while a Professional certification is required for Master. The Expert and Specialist certification does not have any prerequisite certification like Associate.
+
+Certification paths
+
+Oracle9i Database Administrator Certified Master
+
+There are 55 Oracle courses in OracleOCM 10g approved list ranging from Oracle 9i to Oracle 11g.
+
+For Oracle OCM 11g there are only 24 approved courses and all belong to Oracle 11g
+
+No additional courses required when you upgrade from Oracle OCM 10g to Oracle OCM 11g
+
+http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=198#OCM
+
+Oracle Application Server 10g Administrator Certified Associate
+*1Z0-311 Oracle Application Server 10g: Administration I
+
+1Z0-301 Oracle9iAS: Basic Administration
+
+Oracle Forms Developer Certified Professional
+*Oracle PL/SQL Developer OCA.
+*1Z0-141 Oracle Forms: Build Internet Applications
+*A higher level of ... CCSP Training
+* A higher level trainings...
+
+Oracle Java and Middleware Certifications
+(Formerly, Sun Certifications)
+
+*Associate level
+**Java SE 5 and 6, Certified Associate Exam
+**Java SE 7 Programmer I
+**Java SE 8 Programmer I
+*Professional level
+**Java Programmer
+**Java Mobile Edition 1 Mobile Application Developer Certified Professional Exam
+**Java SE 5 Programmer Certified Professional Exam
+**Java SE 5 Programmer Certified Professional Upgrade Exam
+**Java SE 6 Programmer Certified Professional Exam
+**Java SE 6 Programmer Certified Professional Upgrade Exam
+**Java SE 7 Programmer II
+**Java SE 8 Programmer II
+**Upgrade to Java SE 7 Programmer
+*Expert level
+**Java EE 5 Web Component Developer Certified Professional Exam
+**Java EE 5 Web Component Developer Certified Professional Upgrade Exam
+**Java EE 5 Business Component Developer Certified Professional Exam
+**Java EE 5 Business Component Developer Certified Professional Upgrade Exam
+**Java EE 5 Web Services Developer Certified Professional Exam
+**Java EE 5 Web Services Developer Certified Professional Upgrade Exam
+**Java EE 6 Enterprise JavaBeans Developer Certified Expert Exam
+**Java EE 6 Web Services Developer Certified Expert Exam
+**Java EE 6 Java Persistence API Developer Certified Expert Exam
+**Java EE 6 Web Component Developer Certified Expert Exam
+*Master level
+**Java Developer
+**Java SE 6 Developer Certified Master Assignment
+**Java SE 6 Developer Certified Master Essay Exam
+**Java SE 6 Developer Certified Master Assignment for Resubmission
+**Java Enterprise Architect Certified Master Assignment
+**Java Enterprise Architect Certified Master Essay Exam
+**Java Enterprise Architect Certified Master Assignment for Resubmission
+**Java EE 5 Enterprise Architect Certified Master Exam
+**Java EE 5 Enterprise Architect Certified Master Upgrade Exam
+**Java EE 6 Enterprise Architect Certified Master Exam
+
+The old certification was formed by Sun Technologies.
+*Web Component Developer (JSP/Servlet)
+*JSF
+*Java Enterprise Architect
+
+ Oracle Certified Associate Java SE Programmer I (formerly the Sun Certified Java Programmer) 
+
+The Oracle's CertifiedAssociate Java SE Programmer (7 and 8) exam is the basic exam required to demonstrate solid understanding of Java as a programming language and is a prerequisite to being a certified Programmer.
+
+While most advanced certifications focus the test on your knowledge of the API, this entry level one focuses on variables, class and interface definition, arrays, exception handling, encapsulation, polymorphism and flow control. Basic API knowledge is required about strings and arraylists. The version 8 of the test was made available as a final release since 12/2014, testing for the lambda language construct and knowledge on the old autowrapping feature of the language, while also testing for the new API of date and time.
+
+ Oracle Certified Professional Java SE Programmer (also formerly the Sun Certified Java Programmer) 
+
+Oracle's Certified Professional Java SE Programmer (OCPJP) exam is the fundamental exam required to demonstrate solid understanding of Java and some of it's SE APIs and is a prerequisite to a number of the other Java certificates.
+
+It is designed as a fairly detailed test of knowledge of the core features and constructs of the Java programming language. It tests a wide range of Java's APIs and core features, starting from basics such as looping constructs and variables, to more complex topics such as Threads, Collections and Generics. It does not cover specific technology domains such as GUI creation, Web or network programming, though it does cover part of the APIs included in the standard library. The exam tests how well a programmer has understood the language constructs and mechanisms. However it's not a goal of the exam to test the programmer's ability to produce purposeful or efficient programs. It does not test the programmer's ability to write efficient algorithms, for example, though it does test knowledge of which collections should be selected in order to implement efficient algorithms without re-inventing the wheel.
+
+It is assessed through an automatically administered multiple-choice test system and consists of 60 questions which the candidate has 150 minutes to answer. At least 37 questions are needed to be correct to pass (around 61%). To take the test a candidate must buy a voucher from Oracle (approximately US$300 in the US, £150 (excluding VAT) in the UK, AUD 316 plus tax in Australia, Rs. 8000 plus taxes in India) and book the test at least a week in advance. The test consists of multiple choice questions. In June 2011, Oracle moved from Prometric to Pearson VUE as their test provider.
+
+The OCPJP 6 exam tests a candidate on knowledge of declarations, access control, object orientation, assignments, operators, flow control, assertions, string handling, I/O, parsing, formatting, generics, collections, inner classes, threads and the JDK tools. The test is available in English, Japanese, Chinese, German, Korean, Portuguese, Russian and Spanish.
+
+The OCPJP 7 exam includes a few new Java 7 features such as NIO 2, try-with-resources, catching multiple exceptions, and fork/join framework. The OCPJP 7 exam has 90 questions and one has to answer 65% of the questions to clear it. In case, you have older version of Java Programmer certification (such as SCJP/OCPJP 6) then you can appear for upgrade exam (1Z0-805) to get OCPJP 7.
+
+ Current Versions (As of October 2013) 
+
+OCPJP 5 Very similar in objective to the older SCJP 5.0 listed
+
+OCPJP 6 designated by Oracle as 1Z0-851
+
+OCPJP 7 designated by Oracle as 1Z0-804
+
+OCPJP 8 designated by Oracle as 1Z0-809?
+
+ Previous versions 
+
+There have been a number of previous versions of the OCPJP.
+
+SCJP 6.0 (designated by Sun as CX-310-065) is aimed at the JDK 6.0 release of Java. The SCJP 6 introduced new topics covering Console, NavigableSet, and NavigableMap.
+
+SCJP 5.0 (designated by Sun as CX-310-055) was based on JDK 5. It introduced variable arguments, autoboxing, and generic types, and dropped the bit shifting topics from previous exams.
+
+SCJP 1.4 (designated by Sun as CX-310-035) was based on JDK 1.4. Compared to the previous version of the exam, SCJP 1.2, it dropped questions on GUI topics and shifted the emphasis towards core language features. SCJP 1.4 features 61 questions to be answered within 120 minutes. 32 questions or more (52%) need to be answered correctly in order to pass.
+
+SCJP 1.2 (designated by Sun as CX-310-025) was based on JDK 1.2, and was first live on 15 June 2000. The exam had 59 questions (both multiple choice and short answer) to be answered within two hours. The pass mark was 61 percent. However, exam 310-025 has been withdrawn from the market; certified professionals can retain their certification and use the title, but this version is no longer being offered.
+
+ Oracle Certified Master Java SE 6 Developer (OCMJD) (formerly Sun Certified Java Developer) 
+
+The Oracle Certified Master Java SE Developer series is a former test applied by Oracle, only available for Java up to 6. Formerly known as Sun Certified Java Developer (or SCJD), it was the advanced Java programmer certification level. Unlike the more basic SCJP, this level is intended to verify that the participant is able to write a real-world commercial application, solving all typical problems. It was the highest qualification that Sun confirmed for the Standard Edition Java programmer. Prior to attempting certification, candidates must be certified as a Sun Certified Programmer (SCJP), any edition. It was not necessary to be a Sun Certified Java Associate prior to taking this exam.
+
+The certification consists of the practical programming task and the subsequent written theory exam. The participant must write the described application, extensively using custom file formats, distributed computing (JRMP) and advanced Swing features that are not fully accessible from the popular rapid development tools (JTable, component data models and so on). The code must be documented, and the user manual must be supplied. The task itself is written in the form of a PRD for a non-programming end user. Apart from one or two interfaces, no technical details are given.
+
+ Oracle Certified Professional Java EE Web Component Developer (formerly Sun Certified Web Component Developer) 
+
+The Sun Certified Web Component Developer (SCWCD) certification targets information regarding Java components related to web-applications, specifically Servlets and Java Server Pages (JSPs). To achieve this certification, the candidate must pass a computer-based test available world-wide.
+
+The SCWCD 1.4 exam covers the Java 2 Enterprise Edition (J2EE) version 1.4 code, corresponding to Servlet version 2.4 and JSP version 2.0.
+
+SCWCD 5 was released in early 2008. The exam consists of 69 questions with 70% or above being required to pass. The time duration is 3 hours. The objectives are identical to the previous (1.4) version of the exam.
+
+ Oracle Certified Professional Java EE Business Component Developer (formerly Sun Certified Business Component Developer) 
+
+The Sun Certified Business Component Developer (SCBCD) certification targets information regarding Java components related to distributed applications, specifically Enterprise Java Beans (EJBs). To achieve this certification, the candidate must pass a computer-based test available world-wide at Prometric test centers.
+
+SCBCD 1.4 exam covers Java 2 Enterprise Edition (J2EE) version 1.3 code, including EJB version 2.0.
+
+As of 2008, the SCBCD covers the Java 2 Enterprise Edition (J2EE) version 5 code, corresponding to EJB version 3.0.
+
+The pre-requisite for this certification is that the candidate should be a Sun Certified Programmer for Java 2 Platform (any edition).
+
+SCBCD for J2EE version 1.3 is now no longer offered (starting February 2008). However, the upgrade exam from SCBCD for J2EE version 1.3 to Java EE version 5 is still available
+
+ Oracle Certified Expert Java Platform, EE Web Services Developer (formerly Sun Certified Developer for Java Web Services) 
+
+The Sun Certified Developer for Java Web Services 5 (SCDJWS) certification exam (designated CX-310-230) is for developers who have been Developer Pack, JAX-WS and JAXB. Other topics like XML, JSON, REST and security are covered too.
+
+There was an older version, SCDJWS 1.4 (designated CX-310-220), which is already decommissioned .
+
+ Oracle Certified Professional Java ME Mobile Application Developer (formerly Sun Certified Mobile Application Developer) 
+
+The Sun Certified Mobile Application Developer (SCMAD) certification targets information related to developing Mobile applications, through platform Java 2 Micro Edition (J2ME). It focuses in specifications like JTWI, CLDC, MIDP, WMA and MMAPI. SCMAD Exam Guide is the only book that focus on the exam objectives.
+
+ Oracle Certified Master, Java EE 5/6 Enterprise Architect (formerly Sun Certified Enterprise Architect) 
+
+Sun Certified Enterprise Architect for the Java EE Platform (SCEA) certification certifies the skills of a software architect in the Java Enterprise Edition technology (formerly J2EE). Obtaining the certification requires the candidate to pass three individual stages:
+
+* a multiple choice exam on the basic concepts of Java EE technology
+* a UML design project involving Java EE technology
+* an essay exam regarding the design project
+* Complete Mandatory Course Completion Form (After Oct 2011)
+
+The multiple-choice exam can be taken at any Prometric testing center around the world. Passing of this portion is required prior to registering with Sun Microsystems for the design project, which is downloaded from a secured website. After completion of the assignment and upload to the same secured website, the candidate then sits for an essay exam, once again through a Prometric test center. As the questions on the essay exam are based on the assignment for Part II, it is advised to take the essay exam as soon as possible after submitting the assignment. (The last two steps are essentially one step since they are graded in unison.) Scores for the Part I exam are known immediately after taking the test; however, the scores for Parts II/III are only available after six to eight weeks through Sun's certification manager website.
+
+SUN released the Java EE 5 version of the SCEA exam in February 2008, and the prior version (for J2EE 1.2) was retired on March 1, 2008. Candidates who already began work on the prior track had until the end of 2008 to complete their assignments, assuming they have purchased the vouchers prior to the retirement date. Sun has also made available an upgrade track consisting of a single, multiple-choice exam not unlike the Part I examination, for those who have the prior credential. Also, unlike the prior version, a candidate for the SCEA for Java EE 5 now must complete the Part II assignment within one year - the prior version had no time limit for the assignment.
+
+Unlike other higher-level Java exams, this certification does not require passing the Sun Certified Java Programmer exam as a prerequisite. This is due to the different job-role an architect fills on the software development team.
+
+Should the candidate pass, Sun will award the person the status of a professional Java architect. Unlike some other technology exams (such as MCSE), this exam and all of the other Sun Java exams do not have an expiration date.
+
+ Solaris Operating System Certifications 
+
+ Sun Certified Solaris Associate 
+
+The Sun Certified Solaris Associate (or SCSAS), is a certification for university students and other beginners seeking to gain basic knowledge of UNIX with a Solaris Operating System (Solaris OS) emphasis. Candidates will learn basic UNIX commands and tasks, performed in the Solaris OS environment.
+
+This certification is offered for the Solaris 10 OS, consisting of one multiple choice exam. There are no prerequisites to this exam.
+
+ Sun Certified System Administrator for the Solaris Operating System 
+
+The Sun Certified System Administrator for Solaris (or SCSA), the oldest of Sun's certifications, concentrates on in depth knowledge of the Solaris OS including knowledge of basic UNIX and Solaris OS commands management of file systems, system boot and shutdown, software install, user creation and administration, security, network printers and system processes, and system backups and restores. The test covers topics of system administration for SPARC, x64, and x86 based systems. The certification requires passing score on two separate tests, www.sun.com/training/catalog/courses/CX-310-200.xml Sun Certified System Administrator for Solaris 10 OS, Part I, (exam number 310-200), and www.sun.com/training/catalog/courses/CX-310-202.xml Sun Certified System Administrator for Solaris 10 OS, Part II, (exam number 310-202). The certification is targeted at System Administrators working in technical positions in the Solaris OS.
+
+ Sun Certified Network Administrator for the Solaris Operating System 
+
+The Sun Certified Network Administrator for Solaris, follows the Sun Certified System Administrator Certification and focuses on networking skills in the Solaris OS. This exam will test candidates on their knowledge of Network Interface Layers, Transport, Network Applications and configuring the Solaris IP Filter. It is recommended that candidates have three or more years experience in networking prior to this certification. The Solaris System Administration certification is a prerequisite for this certification. This certification requires a passing score on exam number www.sun.com/training/catalog/courses/CX-310-302.xml 310-302. The certification is targeted at Network Administrators working in technical positions in the Solaris OS.
+
+ Sun Certified Security Administrator for the Solaris Operating System 
+
+The Sun Certified Security Administrator for Solaris (or SCSECA), the newest of Sun's Solaris certifications, concentrates on in depth knowledge of security features of the Solaris OS including installing security features, Process Rights Management, Solaris Cryptographic framework, and Solaris Zones. The certification is targeted at advanced administrators of Solaris environments with responsibility for security.
+
+
+ Others 
+
+Sun Certified Specialist Netbeans IDE
+
+The Sun Certified Specialist Netbeans IDE (SCSNI), designated CX-310-045 concentrates on specific knowledge of the usage and functionality of the Netbeans IDE.
+

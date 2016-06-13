@@ -1,0 +1,99 @@
+The reserve requirement (or cash reserve ratio) is a central bank regulation employed by most, but not all, of the world's central banks, that sets the minimum fraction of customer deposits and notes that each commercial bank must hold as reserves (rather than lend out). These required reserves are normally in the form of cash stored physically in a bank vault (vault cash) or deposits made with a central bank.
+
+The required reserve ratio is sometimes used as a tool in monetary policy, influencing the country's borrowing and interest rates by changing the amount of funds available for banks to make loans with. Western central banks rarely alter the reserve requirements because it would cause immediate liquidity problems for banks with low excess reserves; they generally prefer to use open market operations (buying and selling government-issued bonds) to implement their monetary policy. The People's Bank of China uses changes in reserve requirements as an inflation-fighting tool,and raised the reserve requirement ten times in 2007 and eleven times since the beginning of 2010.
+
+An institution that holds reserves in excess of the required amount is said to hold excess reserves.
+
+Effects on money supply
+
+The conventional view
+The economic theory that a reserve requirement can act as a tool of monetary policy is frequently found in economics textbooks. The higher the reserve requirement is set, the theory supposes, the less funds banks will have to loan out
+, leading to lower money creation and perhaps ultimately to higher purchasing power of the money previously in use. The effect is multiplied, because money obtained as loan proceeds can be re-deposited; a portion of those deposits may again be loaned out, and so on. The effect on the money supply is governed by the following formulas:
+
+,
+
+:
+
+where notationally,
+
+d
+
+.
+
+However, in the United States (and other countries except Brazil, China, India, Russia), the reserve requirements are generally not frequently altered to implement monetary policy because of the short-term disruptive effect on financial markets. 
+
+The endogenous money view
+Some economists dispute the conventional theory of the reserve requirement. Criticisms of the conventional theory are usually associated with theories of endogenous money.
+
+Jaromir Benes and Michael Kumhof of the IMF Research Department report that the “deposit multiplier“ of the undergraduate economics textbook, where monetary aggregates are created at the initiative of the central bank, through an initial injection of high-powered money into the banking system that gets multiplied through bank lending, turns the actual operation of the monetary transmission mechanism on its head. Most times when banks ask for replenishment of depleted reserves, the central bank obliges. Reserves therefore impose no constraints as the deposit multiplier is simply, in the words of Kydland and Prescott (1990), a myth. And because of this, private banks are almost fully in control of the money creation process.
+
+Required reserves
+
+United States
+In the United States, a reserve requirement (or liquidity ratio) is a minimum value, set by the Board of Governors of the Federal Reserve System, of the ratio of required reserves to some category of deposits held at depository institutions (e.g., commercial bank including US branch of a foreign bank, savings and loan association, savings bank, credit union). The only deposit categories currently subject to reserve requirements are net transactions accounts, mainly checking accounts. The total amount of all net transaction accounts held in USA depository institutions, plus US currency held by the nonbank public, is called M1.
+
+A depository institution can satisfy its reserve requirements by holding either vault cash or reserve deposits. An institution that is a member of the Federal Reserve System must hold its reserve deposits at a Federal Reserve Bank. Nonmember institutions can elect to hold their reserve deposits at a member institution on a pass-through basis.
+
+A depository institution's reserve requirements vary by the dollar amount of net transaction accounts held at that institution. Effective January 23, 2014, institutions with net transactions accounts: 
+* Of less than $13.3 million have no minimum reserve requirement;
+* Between $13.3 million and $89.0 million must have a liquidity ratio of 3%;
+* Exceeding $89.0 million must have a liquidity ratio of 10%.
+The numerical amounts stated above are recalculated annually according to a statutory formula.
+
+Effective December 27, 1990, a liquidity ratio of zero has applied to CDs, savings deposits, and time deposits, owned by entities other than households, and the Eurocurrency liabilities of depository institutions. Deposits owned by foreign corporations or governments are currently not subject to reserve requirements.
+ 
+When an institution fails to satisfy its reserve requirements, it can make up its deficiency with reserves borrowed either from a Federal Reserve Bank, or from an institution holding reserves in excess of reserve requirements. Such loans are typically due in 24 hours or less.
+
+An institution's overnight reserves, averaged over some maintenance period, must equal or exceed its average required reserves, calculated over the same maintenance period. If this calculation is satisfied, there is no requirement that reserves be held at any point in time. Hence reserve requirements play only a limited role in money creation in the USA - and since quantitative easing began in 2008, they have been even less important, as an enormous glut of excess reserves now exists (over the whole system; theoretically, though, individual banks may still run into temporary shortfalls).
+
+The International Banking Act of 1978 requires branches of foreign banks operating in the US to follow the same required reserve ratio standards.
+
+Countries without reserve requirements
+Canada, the UK, New Zealand, Australia and Sweden have no reserve requirements.
+
+This does not mean that banks can - even in theory - create money without limit. On the contrary: banks are constrained by capital requirements, which are arguably more important than reserve requirements even in countries that have reserve requirements.
+
+It also does not mean that a commercial bank's overnight reserves can become negative, in these countries. On the contrary: the central bank will always step in to lend the necessary reserves if necessary so that this does not happen: this is sometimes described as "defending the payment system". Historically, a central bank might once have run out of reserves to lend and so have had to suspend redemptions, but this cannot happen anymore to modern central banks because of the end of the gold standard worldwide, which means that all nations use a fiat currency.
+
+It is sometimes argued that the requirement not to have a negative reserve balance at the central bank constitutes a reserve requirement of zero. However, mathematically, a requirement to hold zero reserves does not correspond to any ratio; it is more permissive than any ratio. So this can be true only if a broader definition of reserve requirement is adopted. Moreover, such a zero reserve requirement cannot be explained by a theory that holds that monetary policy works by varying the quantity of money using the reserve requirement.
+
+Even in the United States, which retains formal (though now mostly irrelevant) reserve requirements, the notion of controlling the money supply by targeting the quantity of base money fell out of favour many years ago, and now the pragmatic explanation of monetary policy refers to targeting the interest rate to control the broad money supply.
+
+United Kingdom
+In the UK the term clearing banks is sometimes used, meaning banks that have direct access to the clearing system. However, for the purposes of clarity, the term commercial banks will be used for the remainder of this section.
+
+The Bank of England, which is the central bank for the entire United Kingdom, previously held to a voluntary reserve ratio system, with no minimum reserve requirement set. In theory, this meant that commercial banks could retain zero reserves. However, the average cash reserve ratio across the entire United Kingdom banking system was higher during that period, at about 0.15% .
+
+From 1971 to 1980, the commercial banks all agreed to a reserve ratio of 1.5%. However, in 1981 this requirement was abolished.
+
+From 1981 to 2009, each commercial bank set out its own monthly voluntary reserve target in a contract with the Bank of England. Both shortfalls and excesses of reserves relative to the commercial bank's own target over an averaging period of one day would result in a charge, incentivising the commercial bank to stay near its target, a system known as reserves averaging.
+
+Upon the parallel introduction of quantitative easing and interest on excess reserves in 2009, banks were no longer required to set out a target, and so were no longer penalised for holding excess reserves; indeed, they were proportionally compensated for holding all their reserves at the Bank Rate (the Bank of England now uses the same interest rate for its bank rate, its deposit rate and its interest rate target). Indeed, in the absence of an agreed target, the concept of excess reserves does not really apply to the Bank of England any more, so it is technically incorrect to call its new policy "interest on excess reserves".
+
+Canada
+Canada abolished its reserve requirement in 1992.
+
+Other countries
+Other countries have required reserve ratios (or RRRs) that are statutorily enforced (sourced from Lecture 8, Slide 4: Central Banking and the Money Supply, by Dr. Pinar Yesin, University of Zurich, based on 2003 survey of CBC participants at the Study Center Gerzensee):
+ Required reserve (in %)!! NoteAustraliaNoneStatutory Reserve Deposits abolished in 1988, replaced with 1% Non-callable DepositsNew ZealandNone
+1999 www.cnb.cz/m2export/sites/www.cnb.cz/cs/menova_politika/mp_nastroje/download/menove_nastroje.xlsSwedenNoneEurozone1.00Effective January 18, 2012. Down from 2% since Jan 1999.Czech Republic2.00Since October 7, 2009
+Hungary2.00 Since November 2008South Africa2.50Switzerland2.50Latvia3.00Just after the Parex Bank bailout (24.12.2008), Latvian Central Bank decreased the RRR from 7% (?) down to 3%Poland3.50 as of 31 dec 2010 Romania10.00 as of 30 jan 2013 for lei. And 16% for foreign currencyRussia4.00 Effective April 1, 2011, up from 2.5% in January 2011.Chile4.50India4.00 January 2013, as per RBI.Bangladesh6.00 Raised from 5.50. Effective from 15 December 2010Lithuania6.00Nigeria20.00Raised from 15.00. Effective from 25 November 2014
+Pakistan5.00Since November 1, 2008Taiwan7.00
+Turkey8.50Since February 19, 2013
+Jordan8.00Zambia8.00
+Burundi8.50
+Ghana9.00
+Israel9.00the Required Reserve Ratio is called Minimum Capital RatioMexico10.50Sri Lanka8.00With effect from 29 April 2011. 8% of total rupee deposit liabilities.
+Bulgaria10.00Banks shall maintain minimum required reserves to the amount of 10% of the deposit base (effective from December 1, 2008) with two exceptions (effective from January 1, 2009): 1. on funds attracted by banks from abroad: 5%; 2. on funds attracted from state and local government budgets: 0%.
+Croatia14.00Down from 17%, effective from 2009-01-14Costa Rica15.00Malawi15.00
+Nepal5.00From the monetary policy announcement for FY 2011/12 CRR reduced from 5.5% to 5% Hong KongNone
+Brazil20.00 Up from 15%, effective from 2010-12-06 - Ratio is for requirement on term deposits.RRR for foreign currency positions increased to 43.00 on 2010 July 15 www.businessweek.com/news/2010-07-22/brazil-signals-rate-increases-to-end-as-growth-cools.html
+China20.50Ratio is for major Chinese Banks on 2012-02-24; down from a 21.5% high in June 2011.Small and medium-size banks have a lower rate of 18.50%.
+Tajikistan20.00
+Suriname25.00Down from 27%, effective from 2007-01-01
+Lebanon30.00news.bbc.co.uk/2/hi/middle_east/7764657.stm
+
+Historical changes in reserve ratios
+In some countries, the cash reserve ratios have decreased over time; in some countries they have increased:Country1968197819881998United Kingdom20.515.95.03.1Turkey58.362.730.818.0Germany19.019.317.211.9United States12.310.18.510.3India361010-11 
+(Ratios are expressed in percentage points.)
+

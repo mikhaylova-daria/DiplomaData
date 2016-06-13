@@ -1,0 +1,62 @@
+DartMUD is a MUD, a text-based online role-playing game, started in 1991 at Dartmouth College. It pioneered several interface and game play innovations which were later used to greater popular success by games such as Ultima Online.
+
+Notable Contributions
+
+DartMUD "Firsts"
+
+The actual dates of the first implementation of these ideas in MUDs or MMORPGs are not well documented and competing claims exist, but DartMUD was first, among the first, or an early adopter of the following:
+* Permanent Death: DartMUD is targeted at hard-core mudders, people willing to risk permadeath — a common occurrence — in order to make their accomplishments that much more meaningful.
+* Hex-Based Wilderness Map: DartMUD implements a hex map in ASCII text an innovation which helped shape later games.
+* Numberless Interface: DartMUD differs from earlier LPMuds in that it is class-less and level-less. Attributes, skills, hit points, and magical aura are represented using generalized text descriptions, rather than specific numbers.
+* Crafting: DartMUD has had a three-stage crafting system since 1992. Initially, the system allowed for in-game farming (resource extraction), milling (resource refinement), and cooking (finished goods creation). The system has since been expanded to include wood, metal, cloth, stone, and ceramic-based skills, as well as herding, hunting, and gathering, allowing for a relatively comprehensive model of a medieval economy.
+* Player-Run Economy: DartMUD attempts to model a realistic economy: storekeepers don't have everything players need, nor do they automatically purchase anything a player acquires. Of all the innovations listed here, a Player-Run Economy has been the most problematic and contentious, and multiple tweaks to the economic model have been made in an attempt to balance realism and game play.
+
+Reception and influence
+
+Game designer and industry author Raph Koster has mentioned DartMUD as an influential game in general and regarding many specific topics, such as hex mapping, simulationism, player-run economy, and crafting. Other mud developers have occasionally mentioned DartMUD on MUD-DEV, the MUD Developers' mailing list. Koster and others often cite DartMUD as an innovative MUD that failed or fell short in execution.
+
+DartMUD was one of twelve MUDs selected, by virtue of its Google search ranking, to receive player surveys by authors Anthony Faiola and Alexander E. Voiskounsky while researching their paper "Flow Experience of MUD Players: Investigating Multi-User Dimension Gamers from the USA".
+
+ Design Considerations 
+The primary limitation on character actions is a 'concentration' system. The exercise of player skills reduces the chance that a subsequent skill check (of any skill, not just the same skill) will be successful. This penalty goes away fairly quickly, but it serves to prevent abuse based on the speed of prepared (e.g. client-side macro) input.
+
+The founders of DartMUD decided to try to capture the unpredictability of the Rolemaster RPG's open-ended die rolling system using a custom implemented Cauchy distribution function. The unpredictable extremes of the Cauchy function have occasionally resulted in very memorably improbable results.
+
+DartMUD also uses a seeded random number generator, which allows for certain similar "random" events to produce identical results, simulating the pointlessness of attempting certain actions twice: if an action failed once, it will fail again unless something has changed in a subsequent attempt.
+
+Creatures in DartMUD possess "shapes" — a creature's shape file determines how many limbs it has, how many objects it can hold, natural armor, relative size and durability, and effects when one or more limbs are disabled. Players may choose races which have from four to eight limbs, including one to four hands.
+
+ Game World 
+
+ Skills 
+DartMUD is a classless system, which means any skill may be learned by anyone. However, only some skills can be self-taught; others must be learned from a non-player character (NPC) or player teacher. Many skills aren't taught by NPCs, forcing a greater level of player interaction. Skills are improved by practicing relevant tasks of increasing difficulty, not by spending experience points. While DartMUD doesn't have classes, requirements to practice skills to improve them and positive feedback for learning similar skills provide incentive for characters to specialize, encouraging player interdependence.
+
+Due to the player-run economy, crafting skills provide greater game rewards than thief skills. In fact, since thieves mainly prey on other characters in DartMUD, they are generally hunted and killed if discovered. Since combat is not required to advance, some players thrive despite avoiding violence altogether.
+
+ Role Playing 
+In DartMUD, roleplaying (RP) is not enforced by the staff. Rather, a confluence of factors — prominent among them permadeath, player interdependence, and the desire for wealth — create an unsimulated political system. "An armed society is a polite society" (Robert A. Heinlein) is a good summation: characters behave themselves in public and do their scheming behind closed doors. Using out-of-character communications to influence game play is against the rules, and the creators reserve the right to delete and even ban problematic abusers.
+
+Players new to DartMUD have been advised to use a "disposable" character for their initial learning process, anticipating that they will make mistakes in their early socialization; a fresh start once the initial learning curve is past allows for community engagement with a clean reputation.
+
+ Organizations 
+In DartMUD, magic items are rare and characters rarely gain special abilities; consequently, more mundane objects gain greater significance. As characters accumulate wealth, they require a place to keep it. Like other LPMuds of its era, DartMUD initially had no facility for equipment storage. As available disk space and processing power increased, storage facilities were added to the game in the form of collective resources for which players could strive: Castles, Guild halls, and Inns.
+
+* Castles are the seats of power of noble houses, which are implemented as player-run feudal organizations. The leader of a noble house is established by a process of swearing fealty—to conquer a castle, an invading group must eliminate its defenders and seat one of its own members on the throne. Castles typically have extensive defenses, crafting facilities, and as many player rooms as an Inn.
+
+* Guild halls are the domains of a guild, which specializes in a specific area, led by a guild master elected from the membership. They have more modest defenses and facilities than a castle, and are located inside an established city.
+
+* Inns are located in cities, and have rooms for rent, and are regularly targets for thieves.
+
+Castles and Guilds form factions; tensions arise from wars and shifting alliances.
+
+ History and Ancestry 
+
+*1991: DartMUD is started on a Motorola 68030-based NeXT computer owned by a Dartmouth College graduate student, hence the name.
+*1994: Due to the original site host's departure from Dartmouth, DartMUD moves to an Intel-architecture Linux system hosted at a commercial ISP, Hawaii On Line. The change from a college-based project run by volunteers to a commercially-promoted service with a part-time overseer resulted in significant staff turnover. At the same time, Hawaii On Line's promotion drew a large number of Hawaiian residents as new players. Several architecture-specific optimizations in the LPMud driver and DartMUD mudlib had to be removed or re-coded, and DartMUD has been running on commodity Intel Architecture systems ever since.
+*1995: When Hawaii On Line stopped funding its local games, DartMUD moved to the Rose-Hulman Institute of Technology.
+*1996: When the Rose-Hulman staff member hosting DartMUD left the Institute, DartMUD moved to a UCLA graduate student's office. At this point Accursed Lands was created by five DartMUD creators and one long-term player, and initially shared the same server. Accursed Lands was informally referred to initially as "DartMUD II" during its development phase, but creative differences led to the dissolution of the initial Accursed Lands startup team, and development continues to this day on both DartMUD and Accursed Lands.
+*1997: DartMUD moved to another company where a staff member worked.
+*2003: DartMUD moved to the home broadband of another staff member.
+
+DartMUD is maintained by donations from staff and players alike — since 2004, more than half of operating expenses have been covered by player contributions using PayPal. Unlike many other MUDs which encourage player donations, DartMUD never has conveyed any in-game reward or recognition to players who donate.
+

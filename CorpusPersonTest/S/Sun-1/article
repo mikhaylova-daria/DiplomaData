@@ -1,0 +1,27 @@
+Sun-1 was the first generation of UNIX computer workstations and servers produced by Sun Microsystems, launched in May 1982. These were based on a CPU board designed by Andy Bechtolsheim while he was a graduate student at Stanford University and funded by DARPA. The Sun-1 systems ran SunOS 0.9, a port of UniSoft's UniPlus V7 port of Seventh Edition UNIX to the Motorola 68000 microprocessor, with no window system. Early Sun-1 workstations and servers used the original Sun logo, a series of red "S"s laid out in a square, rather than the more familiar purple diamond shape used later.
+
+The first Sun-1 workstation was sold to Solo Systems in May 1982. The Sun-1/100 was used in the original Lucasfilm EditDroid non-linear editing system.
+
+ModelsModelChassis Sun 100 7-slot Multibus (desktop) Sun 150 15-slot Multibus (rackmount)
+
+Hardware
+The Sun 1 workstation was based on the Stanford University SUN workstation designed by Andy Bechtolsheim (advised by Vaughan Pratt and Forrest Baskett), a graduate student and co-founder of Sun Microsystems. At the heart of this design were the Multibus CPU, memory, and video display cards. The cards used in the Sun-1 workstation were a second-generation design with a private memory bus allowing memory to be expanded to 2 MB without performance degradation.
+
+The Sun 68000 board introduced in 1982 was a powerful single-board computer. It combined a 10 MHz Motorola 68000 microprocessor, a Sun designed memory management unit (MMU), 256 KB of zero wait state memory with parity, up to 32 KB of EPROM memory, two serial ports, a 16-bit parallel port and an Intel Multibus (IEEE 796 bus) interface in a single , Multibus form factor.
+
+By using the Motorola 68000 processor tightly coupled with the Sun-1 MMU the Sun 68000 CPU board was able to support a multi-tasking operating system such as UNIX. It included an advanced Sun designed multi-process two-level memory management unit with facilities for memory protection, code sharing and demand paging of memory.
+
+The CPU board included 256 KB of memory which could be replaced or augmented with two additional memory cards for a total of 2 MB. Although the memory cards used the Multibus form factor, they only used the Multibus interface for power; all memory access was via the smaller private P2 bus. This was a synchronous private memory bus which allowed for simultaneous memory input/output transfers. It also allowed for full performance zero wait state operation of the memory. When installing the first 1 MB expansion board either the 256 Kb of memory on the CPU board or the first 256 KB on the expansion board had to be disabled.
+
+On-board I/O included a dual serial port UART and a 16-bit parallel port. The serial ports were implemented with an Intel 8274 UART and later with a NEC D7201C UART. Serial port A was wired as a Data Communications Equipment (DCE) port and had full modem control. It was also the console port if no graphical display was installed in the system. Serial port B was wired as a Data Terminal Equipment (DTE) port and had no modem control. Both serial ports could also be used as terminal ports and quite often were allowing 3 people to use one workstation, although two did not have graphical displays. The 16-bit parallel port was a special purpose port for connecting 8-bit parallel port keyboard and 8-bit parallel port optical mouse for workstations with graphical displays. The parallel port was never used as a general purpose parallel printer port.
+
+The CPU board included a fully compatible Multibus (IEEE 796 bus). It was an asynchronous bus that accommodated devices with various transfer rates while maintaining maximum throughput. It had 20 address lines so it could address up to 1 MB of Multibus memory and 1 MB of I/O locations although most I/O devices only decoded the first 64 KB of address space. The Sun CPU board fully supported multi-master functionality that allowed it to share the Multibus with other DMA devices.
+
+The keyboard was a Micro Switch 103SD30-2, or a KeyTronic P2441 for the German market. The memory-mapped, bit-mapped frame buffer (graphics) board had a resolution of 1024×1024 pixels, but only 1024×800 was displayed on the monitor. The graphics board included hardware to accelerate raster operations. A Ball model HD17H 17-inch video display monitor was used. An Ethernet board was available, originally implementing the 3 Mbit/s Xerox PARC Ethernet specification, which was later upgraded to the 3Com 10 Mbit/s version. An Interphase SMD 2180 disk controller could be installed to connect up to four Fujitsu 84 MB M2313K or CDC 16.7 MB (8.35 MB fixed, 8.35 MB removable) 9455 Lark drives. All of the boards were installed in a 6 or 7-slot Multibus card cage.
+
+Later documentation shows that a 13- or 19-inch color display was available. The color frame buffer had a resolution of 640×512 pixels, with 640×480 displayed on the monitor. The board could display 256 colors from a palette of 16 million. ½-inch 9-track reel-to-reel tape drives and QIC-02 ¼-inch cartridge tape drives were also added to the offering.
+
+There was also a second generation Sun-1 CPU board referred to as the Sun-1.5 CPU board.
+
+Sun-1 systems upgraded with Sun-2 Multibus CPU boards were identified with a U suffix to their model number.
+

@@ -1,0 +1,90 @@
+Xfire is a proprietary freeware instant messaging service for gamers that also serves as a game server browser with various other features. It is currently available for Microsoft Windows.
+
+Xfire was originally developed by Ultimate Arena based in Menlo Park, California. As of January 3, 2014, it currently has over 24 million registered users.
+
+Xfire's Livestream (formerly known as Mogulus) allows users to broadcast live video streams of their current game to an audience. The Xfire website also maintains a "Top Ten" games list, ranking games by the number of hours Xfire users spend playing each game every day. World of Warcraft has been the most played game for many years, but has since been surpassed by League of Legends on June 20, 2011.
+
+Xfire hosts events every month, which can include debates, game tournaments, machinima contests, and chat sessions with Xfire or game developers.
+
+History
+
+Xfire, Inc. was founded in 2002 by Dennis "Thresh" Fong, Mike Cassidy, Max Woon, and David Lawee. The company was formerly known as Ultimate Arena, but changed its name to Xfire when its desktop client Xfire became more popular and successful than its gaming website. The first version of the Xfire desktop client was code-named Scoville, which was first developed in 2003 by Garrett Blythe, Chris Kirmse, Mike Judge, and others.
+
+On April 25, 2006, Xfire was acquired by Viacom in a US $102 million deal.
+
+In September 2006, Sony was misinterpreted to have announced that Xfire would be used for the PlayStation 3. The confusion came when one PlayStation 3 game, Untold Legends: Dark Kingdom, was to use some of Xfire's features with more game support planned for the future.
+
+On May 7, 2007, Xfire announced that they had reached 7 million registered users. Shortly after, on June 13, 2007, co-founder and former CEO Mike Cassidy departed the company to work for venture capital firm Benchmark Capital. Adam Boyden, Vice President of Business Development & Marketing, was assigned to take his place and manage the company for a temporary period.
+
+On August 2, 2010, Xfire was acquired by Titan Gaming. At 22:16 Greenwich Mean Time, the following message was broadcast to Xfire users:
+
+
+Xfire was bought by new owners today. Most of the team that has built Xfire over the last six years is leaving. We enjoyed working for you for the last 127 releases and wish we could stay to create the next 127. Good bye, good luck, and game on.
+
+- The Xfire Team
+
+
+A few minutes later, the Xfire website displayed a message stating it was temporarily taken offline. When it came back online several minutes later, a new message was shown:
+
+
+Xfire has been purchased by another company. Most of the team that has brought you Xfire for the last 6 years is leaving, including me. We've enjoyed our time and I personally am sad that I was only able to do 127 releases. Good bye and game on!
+
+- Chris
+
+
+Lawsuits
+Yahoo! filed a lawsuit against Xfire, Inc. on January 28, 2005, claiming that Xfire has infringed Yahoo!'s U.S. patent No. 6,699,125 for a "Game server for use in connection with a messenger server". Xfire, Inc. filed a countersuit against Yahoo! on March 10, 2005, which was eventually disqualified by the judge. There has been a settlement between the companies as of January 31, 2006. More details were posted to Xfire's forums, though terms were not disclosed.
+
+Features
+Xfire has many features, the majority of which can only be used while in-game.
+
+Xfire features the ability to detect the video game a particular user is running. By analyzing running processes, Xfire can detect active games and send that information to Xfire clients with the current player as a friend. For many games, it can also detect which server users are playing on, the level which is running, and ping times. Using these features, users are also able to see what games their friends are playing, and to join any friends who are currently in-game by having Xfire launch the game and join the friend's server automatically. Xfire logs what games users are playing, how many hours they have played them, and saves other information (such as scores) from game servers. This information can be converted into a PNG image by the server via PHP for every user to use as a signature.
+
+Xfire allows players to take screenshots in-game and save them to a specified folder, though this only works with games that have Xfire in-game support. Users can select and caption any screenshots they wish to upload and share on their Xfire profile page. Xfire also has the ability to record video in-game, though this can have a significant impact on game performance and recording quality if one has a low-performance system, causing the frame rate to slow dramatically. However, this is typically true of all video recording during gaming, and not unique to Xfire.
+
+To communicate with other users in-game, Xfire users may send and receive instant messages from inside a game in fullscreen mode, regardless of the games the sender or recipient are in. This eliminates the need to minimize the game window. On August 2005, Xfire updated to version 1.43, which added a beta voice chat feature using Voice over Internet Protocol (VoIP) technology to the application called "Xfire Pro-Voice". Until early 2009, if voice chat was being used in a chat room, users had to host the voice chat, causing quality problems and lag due to some users have better system capabilities than others. Xfire now hosts the voice chat sessions to resolve quality problems. On May 4, 2009, a built-in alpha AOL Instant Messenger and Windows Live Messenger plugin was released in 1.108. As of May 4, 2009, it only supports chatting, and none of AIM's other features. Since December 1, 2009, users can access their Twitter accounts through Xfire, allowing players to view updates posted by other users, as well as post their own. Google Talk has also recently been added. In December 2011, Xfire added support for Facebook chatting, enabling users to chat with their Facebook friends from within the game.
+
+The Xfire game software development kit was released with version 1.56 in May 2006. It offers game developers an interface to expose some of the game data to the Xfire application, though this feature is not compatible with all games.
+
+On December 16, 2011, Xfire added a feature to allow its users to capture in-game video and upload it to YouTube. This feature is similar to other popular in-game video recording software products, but allows users to record videos up to 10 minutes in length for free.
+
+In version 1.63, Xfire released a beta clan system that allows users to create clans or guilds on the Xfire website. Features associated with clans include setting up ranks, favorite games, and the number of hours everyone has been playing. With version 1.85, the Clans & Guilds system was officially released.
+
+Xfire added a video streaming feature in version 1.97. To view a broadcast, a web browser plugin was required, supporting only Internet Explorer and Mozilla Firefox. In version 1.113, released on August 17, 2009, the broadcast system was changed to allow a plugin-less, Flash-based view compatible with any Flash-enabled browser. This feature lets anyone watch a live feed of a user's screen while they are playing a game. Live streams have accompanying chatrooms that let anyone who is watching a live feed communicate.
+
+In-game internet browsing capabilities were added to Xfire in version 1.103. Its homepage is set as a statistics page of the game currently being played by the user, including listing other players and any clans and guilds based around the game being played.
+
+Tournaments
+Tournaments allows Xfire users to connect to a free server to play games against others on a separate platform. Users are required to own a Xfire client and a copy of the game should they wish to play in a particular tournament.
+
+Support
+As of December 1, 2012, Xfire provides support for more than 3,000 games, of many different genres.
+
+Support for Windows 98 and Windows Me was discontinued as of January 2007.
+
+Third-party modifications and Software Forking
+There are many third party modifications for Xfire's client and services, including skins, infoview templates, plugins, and protocol implementations. Some of these may or may not violate Xfire's terms of service.
+
+Skins can be used to provide a new look to the Xfire client and chat windows, while Infoview skins can be used to provide extra functionality in the Xfire Infoview pane. Skins are made using XML and image files, while Infoviews are made using HTML, JavaScript, and images.
+
+Plugins
+There are a variety of third-party plugins developed for use with Xfire.
+
+*Xfire Plus: A set of extension programs and files to enhance the Xfire client. Programs such as the music plugin allow displaying information about music as it plays.
+*Xfire2Phone: A plugin that uses VirtualAudioCable and Gmail to set up a link to any phone in the US for free, in order to allow users to connect to landline or mobile phone.
+*OpenFire: An open source (LGPL licensed) Java and suite of tools to access the Xfire instant messaging network.
+*Xfirelib: An open source library written in C++ which implements the Xfire protocol. Based on it is an Extensible Messaging and Presence Protocol (XMPP) gateway to Xfire which also implements Gamers Own Instant Messenger (GOIM) extensions to the XMPP protocol.
+
+The following plugins let users chat on Xfire with other instant messaging clients:
+*Gfire: A Pidgin plugin for Linux and Windows that lets users chat and see what games friends are playing. It has most of the major Xfire features: group chat, clan chat, file transfer, avatars, server, and game detection.
+*Kopete plugin: A plugin that lets users chat and see the status of friends.
+*Miranda IM plugin: A plugin that allows users to chat with others on Xfire, detect games, and more.
+*Trillian plugin: Users may chat and see the status of friends, while detecting when users run games. As of 2010, the plugin does not work, due to protocol changes.
+*Xblaze: An open source plugin for Adium that allows communication over the Xfire protocol, using the MacFire implementation. It is the first Xfire client for Mac OS X.
+
+Clients
+Several Xfire clients are available for different platforms:
+*Xblaze: An iPhone client for the iPhone and iPod Touch based on the MacFire implementation that allows communicating over Xfire.
+*MacFire: An open source implementation for of the Xfire network protocol for Mac OS X. It was made possible, in part, by prior work done for Xblaze, XfireLib, and OpenFire.
+*BlackFire: A client for Mac OS X Snow Leopard.
+

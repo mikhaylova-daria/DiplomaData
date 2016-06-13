@@ -1,0 +1,26 @@
+<built-in function id>,Word,Position,Predicted,Correct
+0,Dan,0,No,Person
+1,O'Neill,1,No,Person
+2,Odd,34,Person,No
+3,Bodkins,35,Person,No
+4,Odd,36,Person,No
+5,Bodkins,37,Person,No
+6,Walt,211,No,Person
+7,Disney,212,No,Person
+8,Mickey,216,No,Person
+9,Mouse,217,No,Person
+10,Shary,311,No,Person
+11,Flenniken,312,No,Person
+12,Mickey,326,No,Person
+13,Mouse,327,No,Person
+14,The,340,No,Organisation
+15,Ireland,462,No,PopulatedPlace
+16,Wounded,464,No,PopulatedPlace
+17,Knee,465,No,PopulatedPlace
+18,",",466,No,PopulatedPlace
+19,Dan,588,No,Person
+20,O'Neill,589,No,Person
+21,University,731,No,Organisation
+22,of,732,No,Organisation
+23,San,733,No,Organisation
+24,Francisco,734,No,Organisation

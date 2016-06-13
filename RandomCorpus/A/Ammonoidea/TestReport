@@ -1,0 +1,17 @@
+<built-in function id>,Word,Position,Predicted,Correct
+0,Elder,162,No,Person
+1,Europe,1544,No,PopulatedPlace
+2,Japan,1769,No,PopulatedPlace
+3,Size,2291,Organisation,No
+4,Few,2292,Organisation,No
+5,North,2402,No,PopulatedPlace
+6,American,2403,No,PopulatedPlace
+7,Canada,2661,No,PopulatedPlace
+8,Madagascar,2742,No,PopulatedPlace
+9,Europe,3282,No,PopulatedPlace
+10,Hilda,3326,No,Person
+11,of,3327,No,Person
+12,Whitby,3328,PopulatedPlace,Person
+13,Saint,3341,No,Person
+14,",",3343,Person,No
+15,Nepal,3402,No,PopulatedPlace

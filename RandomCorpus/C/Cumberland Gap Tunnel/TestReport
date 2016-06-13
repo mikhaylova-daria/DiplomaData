@@ -1,0 +1,23 @@
+<built-in function id>,Word,Position,Predicted,Correct
+0,",",23,PopulatedPlace,No
+1,",",25,PopulatedPlace,No
+2,Virginia,27,No,PopulatedPlace
+3,Tennessee,37,No,PopulatedPlace
+4,and,96,PopulatedPlace,No
+5,Middlesboro,245,No,PopulatedPlace
+6,",",246,No,PopulatedPlace
+7,Kentucky,247,No,PopulatedPlace
+8,Cumberland,249,No,PopulatedPlace
+9,Gap,250,No,PopulatedPlace
+10,",",251,No,PopulatedPlace
+11,Tennessee,252,No,PopulatedPlace
+12,Federal,400,No,Organisation
+13,Highway,401,No,Organisation
+14,Administration,402,No,Organisation
+15,National,405,No,Organisation
+16,Park,406,No,Organisation
+17,Service,407,No,Organisation
+18,and,422,PopulatedPlace,No
+19,Kentucky,434,No,PopulatedPlace
+20,Tennessee,436,No,PopulatedPlace
+21,into,590,PopulatedPlace,No

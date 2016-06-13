@@ -1,0 +1,37 @@
+Chips and Technologies (C&T), founded in Milpitas, California in December 1984 by Gordon A. Campbell and Dado Banatao, was perhaps the first fabless semiconductor company, a model developed by Campbell.
+
+Its first product, announced September 1985, was a four chip EGA chipset that handled the functions of 19 of IBM's proprietary chips on the Enhanced Graphics Adapter. By that November's COMDEX, more than a half dozen companies had introduced EGA-compatible boards based on C&T's chipset. This was followed by chipsets for PC motherboards and other computer graphics chips.
+
+C&T was acquired by Intel in 1997, primarily for its graphics chip business.
+
+Former members of C&T founded Asiliant Technologies in January 2000 to continue the support of the CHIPS 65545, 65550, 65555, 69000, 69030, and other notebook and LCD oriented graphics ICs. Intel licensed the rights to build, sell, and service the C&T chips to Asiliant. Asiliant manufactured and sold C&T components for the next few years until it closed.
+
+Asiliant Technologies is no longer in business. Their website simply states "Asiliant.com is no longer available.".
+
+x86 products
+C&T SuperMath J38700DX was a 80387DX compatible FPU coprocessor.
+
+C&T also designed a 386-compatible microprocessor known as the Super386 38600DX/38600SX using clean room design techniques, but this chip never enjoyed as much success as the 386 CPUs produced by Intel, AMD, and Cyrix. C&T 38605DX had 512 byte cache, but the 144 pin PGA package was incompatible with 386 socket.
+
+ Motherboard chips and chipsets 
+
+* 82C100 - IBM PS/2 Model 30 and Super XT Compatible Chip - Released in 1987, compatible with 8086, 80C86, V30, 8088, 80C88, V20 CPUs. Compatible with all PC/XT functional units: 8284, 8288, 8237, 8259, 8254, 8255, DRAM control, SRAM control, Keyboard control, Parity Generation and Configuration registers. Additionally features EMS control, dual clock and power management. It supports up to 2.5 MB RAM.
+* 82C206 chip, introduced by C&T in 1986 and the core of the NEAT (New Enhanced AT) chipset. This chip, like its predecessor the 82C100, provided equivalent functionality to the TTL chips on the PC/AT's mainboard, namely: the 82284 clock generator, the 82288 bus controller, the 8254 Programmable Interval Timer, the two 8259 Programmable Interrupt Controllers, the two 8237 DMA controllers, the MC146818 NVRAM/RTC chip.
+* 82C235 - Single Chip AT (SCAT) - Released in 1989, compatible with PC/AT. Supported LIM EMS 4.0, up to 16 MB memory and Shadow RAM.
+* 82C836 - Single Chip 386sx AT (SCATsx) - Compatible with PC/AT (bus), supported all the features of SCAT, added support for the i386SX processor and i387SX math coprocessor.
+
+Video chips
+Chips and Technologies was the first company (outside of IBM) to deliver an EGA-compatible chipset. The Enhanced Graphics CHIPSet consisted of the four chips:
+* 82C431 Graphics Controller
+* 82C432 Sequencer
+* 82C433 Attributes Controller
+* 82C434 CRT Controller
+
+C&T was the first company (outside of IBM) to deliver a compatible VGA chipset, the 82C451, and VGA cards were introduced the same year as VGA (1987) based on the 82C441, opening up the IBM compatible graphics display market. This market was then entered by companies such as Trident Microsystems, Western Digital, Cirrus Logic, Oak Technologies, and others, until it was saturated.
+
+Chips and Technologies provided the Wingine video card, a very high speed framebuffer that sat in a proprietary local bus slot on supported motherboards. Epson and JCIS were two manufacturers who offered motherboards featuring the Wingine local bus slot. The Wingine was popular with users of NEXTSTEP for Intel processors, as it was one of the highest performing video cards supported by the operating system.
+
+Apple used a number of C&T controllers in their PowerBook line. Among others, the 65550 was used in the PowerBook 3400 and the faster 65554 was used in the "Kanga" PowerBook G3, which was derived from the 3400. Early NuBus PowerBooks such as the PowerBook 1400 used the less-sophisticated 65525A.
+
+C&T eventually ended up competing in the low end of the video market, the 65555 featured an LVDS transmitter and notably won a design in early Compaq Armada laptops.
+

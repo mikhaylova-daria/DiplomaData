@@ -1,0 +1,24 @@
+<built-in function id>,Word,Position,Predicted,Correct
+0,Boris,0,No,Person
+1,Skossyreff,1,No,Person
+2,Boris,37,No,Person
+3,Skossyreff,38,No,Person
+4,Westminster,54,PopulatedPlace,No
+5,London,58,No,PopulatedPlace
+6,Urgell,144,No,PopulatedPlace
+7,Andorra,155,No,PopulatedPlace
+8,Urgell,188,No,PopulatedPlace
+9,Andorra,198,No,PopulatedPlace
+10,Vilnius,278,No,PopulatedPlace
+11,Empire,285,No,PopulatedPlace
+12,Lithuania,291,No,PopulatedPlace
+13,Week,304,PopulatedPlace,No
+14,and,332,PopulatedPlace,No
+15,Majorca,333,No,PopulatedPlace
+16,Andorra,378,No,PopulatedPlace
+17,Perpignan,463,No,PopulatedPlace
+18,Vichy,466,No,PopulatedPlace
+19,French,467,No,PopulatedPlace
+20,Andorra,523,No,PopulatedPlace
+21,France,538,PopulatedPlace,No
+22,Andorra,566,No,PopulatedPlace

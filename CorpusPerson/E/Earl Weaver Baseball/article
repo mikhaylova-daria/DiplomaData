@@ -1,0 +1,66 @@
+Earl Weaver Baseball is a baseball computer game (1987), designed by Don Daglow and Eddie Dombrower and published by Electronic Arts. The artificial intelligence for the computer manager was provided by Baseball Hall of Fame member Earl Weaver, then manager of the Baltimore Orioles. EWB was a major hit, and along with John Madden Football helped pave the way for the EA Sports brand, which launched in 1992.
+
+Daglow and Dombrower had previously teamed together to create Intellivision World Series Baseball at Mattel in 1983, the first video game to use multiple camera angles and the first console sports sim.
+
+Daglow and Dombrower interviewed Weaver in his hotel room in a series of meetings over a period of months during the 1985 season for managerial AI. Dombrower actually apologized to Weaver at one point for taking up so much of his free time, but Weaver told him that he never had anything to do during road trips and never left his hotel room, anyway. In addition, he loved talking baseball strategy, and he was having a great time.
+
+ Innovations 
+EWB included many features that subsequently became part of most or all computer baseball sims through the present day:
+* EWB was the first commercial computer sports game to not just play a single game, but to allow players to simulate an entire season of games without actually showing each game play-by-play on the screen. In 1971, Daglow had written the first-ever computer baseball game, Baseball, and included this feature. The game ran only on a room-sized mainframe computer, however, and was never offered for sale.
+* The first time players were offered the option of either playing in arcade mode (using eye–hand coordination as well as managerial strategy) or manager mode (where users managed their teams but did not physically control the players).
+* Offered single pitch mode, which allowed games where players dueled as managers to be completed more quickly by not calling every pitch and displaying only the outcome of each at-bat. MicroLeague Baseball (1984) also had single pitch at bats however it was unable to switch to a single pitch mode. 
+* The Amiga version featured voice synthesis, a first in a sports computer game. Players were announced at each plate appearance or substitution. The DOS version had some voice synthesis as well, but less than the Amiga and of lower quality.
+** This announcer was even editable and there was pronunciation guide at the bottom of each players' page, a feature that has never been duplicated. The Amiga version wasn't the very first use of an announcer in a home video game, though. That honor went to the aforementioned Intellivision World Series Baseball. 
+* The first time different stadiums were shown graphically on the screen, with game play adjusted for their actual dimensions. Defunct or demolished stadiums were included, such as the Polo Grounds (New York), Griffith Stadium (Washington, D.C.), Ebbets Field (Brooklyn, New York), and Sportsmans Park (St. Louis). This also marked the debut of the Green Monster of Fenway Park in any computer game.
+* Depicted a manager arguing with an umpire. On a close play, the manager would rush out to the umpire, and they would argue "Out! Safe! Out! Safe! Out! Safe!", while the manager kicked dirt a la Billy Martin on the umpire's shoes. (not the first time as MicroLeague Baseball also had this feature.)
+* The first time a baseball manager had worked with game designers to provide the managerial strategy and artificial intelligence for a computer game. After leaving EA, Daglow would later lead the design of the Tony La Russa Baseball series, working with Tony La Russa.
+* EA issued annual baseball statistics disks to update the rosters and stats of the major league players until 1991.
+* The first time third party publishers issued baseball statistics disks, such as the All-Time Great Teams and 1987 Major League disks from Patrick Mondout in late 1987.
+* Featured the MLBPA license and feature actual major league players. This option had been pulled from Daglow and Dombrower's 1983 Intellivision World Series Baseball at the last minute by Mattel in order to save money.
+* Players featured what Dombrower called "artificial ego". Players would realistically occasionally make errors in judgment, such as trying to take an extra base or attempt to catch an uncatchable ball.
+
+ Gameplay 
+The gameplay was unusual in certain respects. The gamer had no control over the fielders, except where to throw the ball. The pitcher/batter interface was top-down in the Amiga version, and foreshortened in the DOS version.
+
+Players were rated from 1 to 10, but the editor allowed players to effectively go up to 15 (after which it reset.) Players with 15 pitching speed, for example, could reach 100+ mph on their fastballs. Players with 15 running speed were already on second on a stolen base when the catcher's throw was 2/3 of the way to second. Also, any player with a runner rating higher than 10 could never be thrown nor tagged out. This meant that every such player would automatically get an inside-the-park home run on any ground bunted ball.
+
+There was no trade AI, so all trades were made manually.
+
+The game featured a "practice" mode, in which the gamer could practice batting, pitching and fielding. The fielding practice was involving in that the computer would put the gamer through an authentic fielding practice (throw to first, turn a double play, etc)
+
+The player could go through an entire 162-game season if he wished, although there were no playoffs.
+
+ Minor glitches 
+The game was not without a few minor problems:
+
+*During one-pitch mode, the computer never stole a base, because the AI would steal according to the count. If a gamer wanted an accurate simmed season, they would have to play full pitch count.
+*The pitcher never covered first on grounders to first. This would result in more infield hits than normal on the PC version. In the Amiga version, the pitcher covered first if the ball was far enough away from the bag, but would still fail to cover first on balls closer to the line, leading to unwarranted infield hits.
+*The computer-controlled hitter would almost never strike out swinging.
+*In some ballparks, especially user-created ones, the AI wouldn't get an outfielder to pursue a shot to a corner. The players would just stand around, snagged on some wall artifact, while the batter rounded the bases for an inside-the-park home run. When this would happen, the game would freeze and the user would have to use cheat command of Shift-6 to end the play.
+*With a runner on first and second, a human player could deliberately hit a ground ball knowing that the computer player would never get an out. The computer would throw to third base on every occasion in an attempt for a triple play, resulting in every base runner being safe. This exact same glitch continued in Earl Weaver Baseball 2, as well as many other Electronic Arts baseball simulations for years into the future.
+
+ Technical info 
+The DOS version required 384k of RAM and supported CGA, EGA, or Tandy graphics. CGA was recommended for PCs under 12Mhz. The game offered the option of direct-register writes in EGA mode for better performance or using the BIOS instead, which was slow, but guaranteed compatibility with all hardware setups. VGA was not supported per-se, but when run in CGA mode, the game could use the VGA palette registers to select different colors aside from the default CGA ones (if a real CGA or EGA card was used, it would display in the standard red/green/yellow palette).
+
+ Commissioner's Disk 
+
+The Commissioner's Disk was released in 1988. It was an advanced player, stadium and team editor, able to make deeper changes, such as skin tone (in the original version, one had to clone a black player in order to create a new black player). It also featured a schedule generator, as well as advanced stat analysis, and so forth.
+
+ Earl Weaver Baseball II 
+
+Earl Weaver Baseball II (EWB2) was the sequel to the classic game, and featured many advances, including the first full 3D camera that would render a television-style viewing experience. This was made possible by a design decision Dombrower made at Mattel to use a 3D model of the game from the get-go in anticipation of this eventuality. However, the game was released prematurely by Electronic Arts, and Version 1.1, which fixed many of the small bugs that ruined some of its reputation, was never released. Notably, despite the 1991 release date, VGA graphics were still not supported by EWB2, only EGA and Tandy (CGA support was dropped). In 1992, a version of EWB2 was developed in conjunction with STATS, Inc., that would play back real baseball games using the EWB II display engine and live scoring information from each ballpark, but it was never finished or released. It was only released for DOS.
+
+ I Got It Baseball 
+
+In 2002, Dombrower released a version of EWB2 called I Got It Baseball as shareware, though in this version, the gamer can only manage, not participate. However, the managerial AI still remains, though now called "The Skipper". Also intact are the physics engine, the player AI, the fully developed team, player, and ballpark editors; stat accumulation, and a now-commonplace "QuickPlay" option. It can be downloaded at his website.
+
+Reception
+Computer Gaming World in 1987 called Earl Weaver Baseball "undoubtedly the most exciting sports simulations to be released in years". It praised the game's graphics and audio, and noted its extensive offensive and defensive options. The magazine named Earl Weaver Baseball its game of year for 1987, and in 1989 it named Earl Weaver Baseball to its Hall of Fame for games readers rated highly over time, with a score of 8.82 out of 12. Game reviewers Hartley and Patricia Lesser complimented the game in their "The Role of Computers" column in Dragon #126 (1987), calling it "the finest computer simulation for baseball we’ve ever seen" and "impressive beyond belief". The Lessers reviewed the IBM version of the game in the following issue (#127), and gave the game 4½ stars. They later reviewed the Commodore Amiga version in 1988 in Dragon #132, giving it 5 out of 5 stars. Compute! also praised Earl Weaver Baseball, stating "it is, without question, the closest we have to the ideal computer baseball game ... If you are a baseball fan, you will want this game. Period".
+
+By contrast, Computer Gaming World in 1991 denounced Earl Weaver Baseball II as "herky-jerky, funhouse-mirror baseball ... a field-of-nightmares experience". The magazine stated that the sequel had ruined the original's attractive ballparks with "cancerous growths of looming grandstands", less information was available when planning strategy, the automated camera director was poorly implemented, and many features in the original game were now on the optional Commissioner's Disk. Bugs included assigning Connie Mack and John McGraw to the wrong leagues and a conversion utility for player disks that failed on an Electronic Arts-produced disk from 1990.
+
+ Awards 
+In 1996, Computer Gaming World named Earl Weaver Baseball one of the 25 Best Games of All Time on the PC.
+
+Earl Weaver Baseball was named to the Computer Game Hall of Fame by Computer Gaming World and by GameSpy.
+

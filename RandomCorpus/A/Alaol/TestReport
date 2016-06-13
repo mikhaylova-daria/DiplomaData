@@ -1,0 +1,27 @@
+<built-in function id>,Word,Position,Predicted,Correct
+0,Abbas,1,Person,No
+1,Husaini,2,Person,No
+2,Alaol,105,No,Person
+3,Alaol,110,No,Person
+4,",",122,PopulatedPlace,No
+5,Alaol,138,No,Person
+6,Portuguese,142,No,PopulatedPlace
+7,Alaol,158,No,Person
+8,Daulat,228,No,Person
+9,Qazi,229,No,Person
+10,Muhammad,333,Person,No
+11,Musa,334,Person,No
+12,Alaol,363,No,Person
+13,Alaol,395,No,Person
+14,Alaol,449,No,Person
+15,Alaol,455,No,Person
+16,Ahmed,492,No,Person
+17,Sharif,493,No,Person
+18,Sukumar,500,No,Person
+19,Sen,501,No,Person
+20,Nizami,512,No,Person
+21,Ganjavi,513,No,Person
+22,University,585,No,Organisation
+23,of,586,No,Organisation
+24,Chittagong,587,No,Organisation
+25,Alaol,596,No,Person

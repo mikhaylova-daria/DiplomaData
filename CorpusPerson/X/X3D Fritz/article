@@ -1,0 +1,65 @@
+X3D Fritz was a version of the Fritz chess program, which in November 2003 played a four-game Human–computer chess match against world number one Grandmaster Garry Kasparov. The match was tied 2–2, with X3D Fritz winning game 2, Kasparov winning game 3 and drawing games 1 and 4. 
+
+
+Match conditions
+
+Fritz ran on four Intel Pentium 4 Xeon CPUs at 2.8 GHz.
+
+The match was unique in how Kasparov relayed his moves to the computer. In most human–computer matches, the human makes their moves on a normal board, as in a normal game. These moves are fed into the computer by an intermediary seated where a normal human opponent would be, and its replies played on the board by the same person. In this match, however, no normal board and no intermediary was used. Instead, Kasparov, wearing special goggles, saw a three-dimensional projection of the board floating in the air in front of him. He spoke his moves out loud, thus conveying them to the computer which had a speech recognition system. The computer's replies were shown on the projected board.
+
+The time controls for each game were as follows:
+* Start with 120 minutes.
+* After move 40, add 60 minutes.
+* After move 60, add 15 minutes and 30 seconds per move. 
+
+The match was held at the New York Athletic Club in New York City, USA. Kasparov got $150,000 USD for playing and an extra $25,000 for the drawn match. Kasparov would have earned an extra $50,000 instead if he had won.
+
+Games
+
+The moves of the games are given below.
+
+Game 1: November 11, 2003, Kasparov–Fritz ½–½
+
+
+
+Opening: Queen's Gambit Declined (QGD) semi-Slav: Stoltz variation
+ECO: D45
+
+The first game, with Kasparov as White, ended in a draw after Kasparov sacrificed a pawn in the Semi-Slav for a better position. He eventually won a rook for a bishop and pawn, but was unable to convert the advantage into a win. Fritz managed to open lines against Kasparov's king, and drew with perpetual check.
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. g4 Bb4 8. Bd2 Qe7 9. Rg1 Bxc3 10. Bxc3 Ne4 11. O–O–O Qf6 12. Be2 Nxf2 13. Rdf1 Ne4 14. Bb4 c5 15. cxd5 exd5 16. dxc5 Qe7 17. Nd4 O–O 18. Nf5 Qe5 19. c6 bxc6 20. Bxf8 Kxf8 21. Ng3 Ndc5 22. Nxe4 Nxe4 23. Bd3 Be6 24. Bxe4 dxe4 25. Rf4 Bd5 26. Qc5+ Kg8 27. Rgf1 Rb8 28. R1f2 Qc7 29. Rc2 Qd7 30. h4 Qd8 31. g5 Bxa2 32. Rxe4 Qd3 33. Rd4 Qxe3+ 34. Rcd2 Qe1+ 35. Rd1 Qe3+ 36. R1d2 Qg1+ 37. Rd1 ½–½
+
+Game 2: November 13, 2003, Fritz–Kasparov 1–0
+
+
+Opening: Ruy Lopez: Berlin defense
+ECO: C65
+
+The second game, with Fritz as White, was a Ruy Lopez. Kasparov played the Berlin Defence (3...Nf6), with which Vladimir Kramnik had drawn against Deep Fritz in the 2002 Brains in Bahrain match (and which Kramnik had also successfully employed as a drawing variation against Kasparov himself in their 2000 World Championship match). Fritz, however, avoided the simplifying main line (4.0-0 Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8), instead keeping pieces on the board with 4.d3. Kasparov seemed to have at least equal chances until he blundered on move 32 when short of time (see time control) and lost.
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. c3 g6 6. O–O Bg7 7. Nbd2 O–O 8. Re1 Re8 9. d4 Bd7 10. d5 Ne7 11. Bxd7 Nxd7 12. a4 h6 13. a5 a6 14. b4 f5 15. c4 Nf6 16. Bb2 Qd7 17. Rb1 g5 18. exf5 Qxf5 19. Nf1 Qh7 20. N3d2 Nf5 21. Ne4 Nxe4 22. Rxe4 h5 23. Qd3 Rf8 24. Rbe1 Rf7 25. R1e2 g4 26. Qb3 Raf8 27. c5 Qg6 28. cxd6 cxd6 29. b5 axb5 30. Qxb5 Bh6 31. Qb6 Kh7 32. Qb4 Rg7?? 33. Rxe5 dxe5 34. Qxf8 Nd4 35. Bxd4 exd4 36. Re8 Rg8 37. Qe7+ Rg7 38. Qd8 Rg8 39. Qd7+ 1–0
+
+Game 3: November 16, 2003, Kasparov–Fritz 1–0
+
+
+
+Opening: QGD semi-Slav: accelerated Meran (Alekhine variation)
+ECO: D45
+
+Game three was another Semi-Slav, but Fritz varied from game one early with 5...a6. Kasparov replied with 6.c5 which took the game into the sort of closed position which it is generally believed computers do not play well. The game followed one between Samuel Reshevsky and Paul Keres from the 1948 World Championship Tournament until move 12 when Kasparov varied (Black eventually won that game, though White seemed to be better out of the opening). Kasparov won a pawn while keeping the position closed, and Fritz did not appear to understand the closed position well, moving its pieces back and forth with no obvious plan. In the meantime, Kasparov pushed his extra a-pawn and broke through on the queenside. With the computer having absolutely no counterplay and Kasparov about to force through his b-pawn to promote, winning more material, the Fritz operators resigned on move 45, making the match tied at 1½–1½.
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 c6 5. e3 a6 6. c5 Nbd7 7. b4 a5 8. b5 e5 9. Qa4 Qc7 10. Ba3 e4 11. Nd2 Be7 12. b6 Qd8 13. h3 O–O 14. Nb3 Bd6 15. Rb1 Be7 16. Nxa5 Nb8 17. Bb4 Qd7 18. Rb2 Qe6 19. Qd1 Nfd7 20. a3 Qh6 21. Nb3 Bh4 22. Qd2 Nf6 23. Kd1 Be6 24. Kc1 Rd8 25. Rc2 Nbd7 26. Kb2 Nf8 27. a4 Ng6 28. a5 Ne7 29. a6 bxa6 30. Na5 Rdb8 31. g3 Bg5 32. Bg2 Qg6 33. Ka1 Kh8 34. Na2 Bd7 35. Bc3 Ne8 36. Nb4 Kg8 37. Rb1 Bc8 38. Ra2 Bh6 39. Bf1 Qe6 40. Qd1 Nf6 41. Qa4 Bb7 42. Nxb7 Rxb7 43. Nxa6 Qd7 44. Qc2 Kh8 45. Rb3 1–0
+
+Game 4: November 18, 2003, Fritz–Kasparov ½–½
+
+
+
+Opening: Queen's Gambit Accepted (QGA): classical, 6...a6
+ECO: D27
+
+Fritz, with the White pieces again, varied from game two immediately with 1.d4. A Queen's Gambit Accepted followed, and for a while Kasparov followed a rapid game he had won with Black against Kramnik in 2001. Whereas in that game he exchanged his queen for a rook, bishop and pawn (with 13...Nxd5 14.Rad1 Nxf4 15.Rxd8 Rxd8), here he played more soberly, rapidly exchanging pieces, and quickly drawing. The match ended tied, 2-2.
+
+1. d4 d5 2. c4 dxc4 3. Nf3 e6 4. e3 a6 5. Bxc4 c5 6. O–O Nf6 7. Bb3 cxd4 8. exd4 Nc6 9. Nc3 Be7 10. Re1 O–O 11. Bf4 Na5 12. d5 Nxb3 13. Qxb3 exd5 14. Rad1 Be6 15. Qxb7 Bd6 16. Bg5 Rb8 17. Qxa6 Rxb2 18. Bxf6 Qxf6 19. Qxd6 Qxc3 20. Nd4 Rxa2 21. Nxe6 fxe6 22. Qxe6+ Kh8 23. Rf1 Qc5 24. Qxd5 Rfxf2 25. Rxf2 Qxf2+ 26. Kh1 h6 27. Qd8+ Kh7 ½–½
+
+
+

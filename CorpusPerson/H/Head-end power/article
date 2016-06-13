@@ -1,0 +1,98 @@
+In rail transport, head-end power (HEP) or electric train supply (ETS) is the electrical power distribution system on a passenger train. The power source, usually a locomotive at the front or 'head' of a train (or a generator car), provides the electricity used for lighting, electrical and other 'hotel' needs. The maritime equivalent is Hotel Electric Power. A successful attempt by the London, Brighton and South Coast Railway in October, 1881, to light the passenger car between London and Brighton heralded the beginning of using electricity to light trains in the world.
+
+History
+
+Oil lamps were introduced in 1842 to light trains. Economics drove the Lancashire and Yorkshire Railway to replace oil with coal gas lighting in 1870, but a gas cylinder explosion on the train led them to abandon the experiment. Oil-gas lighting was introduced in late 1870. Electrical lighting was introduced in October 1881 by using twelve Swan carbon filament incandescent lamp connected to an underslung battery of 32 Faure lead-acid rechargeable cells, suitable for about 6 hours lighting before being removed for recharging.
+
+The North British Railway in 1881 successfully generated electricity using a dynamo on the Brotherhood steam locomotive to provide electrical lighting in a train, a concept that was later called head-end power. High steam consumption led to abandonment of the system. Three trains were started in 1883 by London, Brighton and South Coast Railway with electricity generated on board using a dynamo driven from one of the axles. This charged a lead-acid battery in the guard's van, who operated and maintained the equipment. The system successfully provided electric lighting in the train.
+
+In 1887, steam-driven generators in the baggage cars of the Florida Special and the Chicago Limited trains in the US supplied electric lighting to all the cars of the train by wiring them, to introduce the other form of head-end power.
+
+The oil-gas lighting provided a higher intensity of light compared to electric lighting and was more popularly used till September 1913, when an accident on the Midland Railway at Aisgill caused a large number of passenger deaths. This accident prompted railways to adopt electricity for lighting the trains.
+
+Throughout the remainder of the age of steam and into the early diesel era, passenger cars were heated by low pressure saturated steam supplied by the locomotive with the electricity for car lighting and ventilation being derived from batteries charged by axle-driven generators on each car or from engine-generator sets mounted under the carbody. Starting in the 1930s, air conditioning became available on railcars, with the energy to run them being provided by mechanical power take offs from the axle, small dedicated engines or propane.
+
+The resulting separate systems of lighting power, steam heat, and engine-driven air conditioning increased the maintenance workload, as well as parts proliferation. Head-End Power would allow for a single power source to handle all these functions and more for an entire train.
+
+United Kingdom
+Originally, trains hauled by a steam locomotive would be provided with a supply of steam from the locomotive for heating the carriages. When diesel locomotives and electric locomotives replaced steam, the steam heating was then supplied by a steam-heat boiler. This was oil-fired (in diesel locomotives) or heated by an electric element (in electric locomotives). Oil-fired steam-heat boilers were unreliable. They caused more locomotive failures on any class to which they were fitted than any other system or component of the locomotive, and this was a major incentive to adopt a more reliable method of carriage heating.
+
+At this time, lighting was powered by batteries which were charged by a dynamo underneath each carriage when the train was in motion, and buffet cars would use bottled gas for cooking and water heating.
+
+On modern Diesel multiple unit trains, such as the Virgin Trains Voyager, the engine mounted below each vehicle provides power for that vehicle.
+
+Electric Train Heat (ETH) and Electric Train Supply (ETS)
+Later diesels and electric locomotives were equipped with Electric Train Heating (ETH) apparatus, which supplied electrical power to the carriages to run electric heating elements installed alongside the steam-heat apparatus, which was retained for use with older locomotives. Later carriage designs abolished the steam-heat apparatus, and made use of the ETH supply for heating, lighting, ventilation, air conditioning, fans, sockets and kitchen equipment in the train. In recognition of this ETH was eventually renamed Electric Train Supply (ETS).
+
+Each coach has an index relating to the maximum consumption of electricity that it could use. The sum of all the indices must not exceed the index of the locomotive. One "ETH index unit" equals 5 kW; a locomotive with an ETH index of 95 can supply 475 kW of electrical power to the train.
+
+North America
+The first advance over the old axle generator system was developed on the Boston and Maine Railroad, which had placed a number of steam locomotives and passenger cars into dedicated commuter service in Boston. Due to the low average speeds and frequent stops characteristic of a commuter operation, the axle generators' output was insufficient to keep the batteries charged, resulting in passenger complaints about lighting and ventilation failures. In response, the railroad installed higher capacity generators on the locomotives assigned to these trains, and provided electrical connections to the cars. The cars used steam from the locomotive for heating.
+
+When diesel locomotives were introduced to passenger service, they were equipped with steam generators to provide steam for car heating. However, the use of axle generators and batteries persisted for many years. This started to change in the late 1950s, during which time the Chicago and North Western Railway removed the steam generators from their EMD F7 and E8 locomotives in commuter service and installed diesel generator sets (see Peninsula 400). This was a natural evolution, as their commuter trains were already receiving low-voltage, low-current power from the locomotives to assist axle generators in maintaining battery charge.
+
+While many commuter fleets were quickly converted to HEP, long-distance trains continued to operate with steam heat and battery-powered electrical systems. This gradually changed following the transfer of intercity passenger rail service to Amtrak and Via Rail, ultimately resulting in full adoption of HEP in the US and Canada and the discontinuation of the old systems.
+
+Following its formation in 1971, Amtrak's initial locomotive purchase was the Electro-Motive (EMD) SDP40F, an adaptation of the widely used SD40-2 3000 horsepower freight locomotive, fitted with a passenger style carbody and steam generating capability. The SDP40F permitted the use of modern motive power in conjunction with the old steam-heated passenger cars acquired from predecessor railroads, allowing Amtrak time to procure purpose-built cars and locomotives.
+
+In 1975, Amtrak started to take delivery of the all-electric Amfleet car, hauled by General Electric (GE) P30CH and E60CH locomotives, later augmented by EMD F40PH and AEM7 locomotives, all of which were equipped to furnish HEP. Five Amtrak E8s were rebuilt with HEP generators for this purpose. In addition, 15 baggage cars were converted to HEP generator cars to allow the hauling of Amfleet by non-HEP motive power (such as GG1s substituting for unreliable Metroliner EMUs). Following the introduction of the Amfleet, the (all-electric) Superliner railcar was placed into operation on long-distance western routes. Amtrak subsequently converted a portion of the steam-heated fleet to all-electric operation using HEP, and retired the remaining unconverted cars by the mid-1980s.
+
+Engine
+The HEP generator can be driven by either a separate engine mounted in the locomotive or generator car, or by the locomotive's prime mover.
+
+Separate engines
+Genset-supplied HEP is usually through an auxiliary diesel unit that is independent from the main propulsion (prime mover) engine. Such engine/generator sets are generally installed in a compartment in the rear of the locomotive. Both the prime mover and the HEP genset share fuel supplies.
+
+Smaller under-car engine/generator sets for providing electricity on short trains are also manufactured.
+
+Locomotive prime mover
+In many applications, the locomotive's prime mover provides both propulsion and head-end power. If the HEP generator is driven by the engine then it must run at a constant speed (RPM) to maintain the required 50 Hz or 60 Hz AC line frequency. It should be noted that an engineer will not have to keep the throttle in a higher run position, as the onboard electronics speed lock the engine for HEP, the throttle then controlling power output by varying the traction generator excitation voltage.
+
+More recently, locomotives have adapted the use of a static inverter, powered from the traction generator, which allows the prime mover to have a larger RPM range.
+
+When derived from the prime mover, HEP is generated at the expense of traction power. For example, the General Electric P32 and P40 locomotives are derated to , respectively, when supplying HEP. The Fairbanks-Morse P-12-42 was one of the first HEP equipped locomotives to have its prime mover configured to run at a constant speed, with traction generator output regulated solely by varying excitation voltage.
+
+One of the first tests of HEP powered by an EMD locomotive's prime mover was in 1969, on Milwaukee Road EMD E9 #33C, which was converted to have a constant speed rear engine.
+
+Electrical loading
+HEP power supplies the lighting, HVAC, dining car kitchen and battery charging loads. Individual car electrical loading ranges from 20 kW for a typical car to more than 150 kW for a Dome car with kitchen and dining area, such as Princess Tours Ultra Dome cars operating in Alaska.
+
+
+Voltage
+
+North America
+Because of train lengths and the high power requirements in North America, HEP is supplied as three-phase AC at 480 V (standard in the US and Canada), 575 V, or 600 V. Transformers are fitted in each car for reduction to lower voltages.
+
+United Kingdom
+In the UK, ETS is supplied at 800 V to 1000 V AC/DC two pole (400 or 600 A), 1500 V AC two pole (800 A) or at 415 V 3 phase on the HST.
+
+Russia
+Russian cars use electric heating with either 3 kV DC voltage on DC lines or 3 kV AC voltage on AC lines provided by locomotive's main transformer. Newer cars are mostly made by Western-European manufacturers and are equipped similarly to RIC cars.
+
+Europe (RIC cars, except Russia and UK)
+RIC cars must be able to be supplied at all the following four voltages: 1,000 V AC  Hz, 1,500 V AC 50 Hz, 1,500 V DC and 3,000 V DC. The first one is used in Austria, Germany, Norway, Sweden and Switzerland, where the catenary system is used. The second one (1.5 kV AC) is used in countries which use catenary system (Denmark, Finland, Hungary and UK, and some lines in France, Italy and Russia). In both cases, the proper voltage is provided by the locomotive's main transformer or an AC alternator in diesel locomotives. In countries using DC power (either 1.5 kV or 3 kV DC), the voltage collected by the pantograph is supplied directly to the cars. (Belgium, Poland and Spain, and some lines in Russia and Italy use 3 kV, and the Netherlands, and some lines in France use 1.5 kV; see more detailed information in the List of current systems for electric rail traction article.)
+
+Older European cars used high voltage (or steam – supplied by steam locomotive (some diesels and electrics also had steam boilers fitted), there were also steam generator cars in use and some cars were fitted with coal- or oil-fired boiler) only for heating, while light, fans and other low-current supply (e.g. shaver sockets in bathrooms) power was provided by axle-driven generator. Today, with the developments in solid state electronics (thyristors and IGBTs), most cars have switching power supplies which take any RIC voltage and can supply all the needed lower voltages. Low voltages differ depending on manufacturers, but typical values are:
+* 12 V – 48 V DC for on-board electronics (supplied from chemical battery when HEP disabled)
+* 24 V – 110 V DC for feeding fluorescent lamps' electronic ballasts and for ventilation fans (supplied from chemical battery when HEP disabled)
+* Single phase 230 V AC for passenger sockets, refrigerators etc. (sometimes supplied from chemical battery, as above)
+* Three phase 400 V AC for air conditioning compressor, heating, ventilation fans (air cond. is nowadays not supplied from chemical battery due to power consumption)
+
+Electric heating was typically supplied from high-voltage HEP line, but the unusual voltages are not common on the market and the equipment is expensive.
+
+A standard RIC-compliant HV heater has six resistors which are being switched accordingly to voltage: 6 in series (3 kV DC), 2 × 3 in series (1.5 kV AC or DC) or 3 × 2 in series (1 kV AC). The selection and switching of a proper configuration is automatic for the sake of safety. Passengers can only operate thermostat.
+
+China
+In China, ETS is supplied at 380 V three-phase by generator car, but 600 V DC on some 25G and 25T passenger car by electric locomotive (SS7D, SS7E, SS8, SS9, HXD1D, HXD3C, HXD3D) and DF11G diesel locomotive (No.0041, 0042, 0047, 0048, 0053-0056, 0101-0218).
+
+Alternatives
+Although most locomotive-hauled trains take power directly from the locomotive, there have been examples (mainly in continental Europe) where restaurant cars would take power directly from the overhead wires. For example, the German restaurant cars WRmz 135 (1969), WRbumz 139 (1975) and ARmz 211 (1971) were all equipped with pantograph.
+
+Finnish dining/catering cars have a built-in diesel-generator set that is used even when a locomotive-supplied power is available.
+
+When the State of Connecticut began the Shore Line East service, they were using, in many cases, new passenger cars with old freight diesels which were not able to supply HEP, so some of the coaches were delivered with an HEP generator installed. With the acquisition of locomotives with HEP these have since been removed.
+
+Where a passenger train must be hauled by a locomotive with no HEP supply (or an incompatible HEP supply) a separate generator van may be used such as on the Amtrak Cascades train or Iarnród Éireann's CAF Mark 4 Driving Van Trailer (with twin MAN 2846 LE 202 (320 kW) / Letag (330 kVA) engine / generator sets, assembled by GESAN). KiwiRail (New Zealand) use AG class luggage-generator vans for their Tranz Scenic passenger services; Tranz Metro on the Wairarapa line use SWG class passenger carriages with part of the interior adapted to house a generator. The Ringling Bros. and Barnum & Bailey Circus train uses at least one custom-built power car that supplies HEP to its passenger coaches to avoid reliance upon the host railroad locomotives that haul the train.
+
+In the future, the old RIC- voltages will be replaced by the much more cost-effective solution with 50 or 60 Hz three-phase 400/415 V (50 Hz) or 480 V (60 Hz). Three-phase is the backbone of the global electric power network and most electrical power equipment is today designed for three-phase supply; the 400/415 V 50 Hz supply is ubiquitous in 50 Hz markets, allowing the use of off-the-shelf mains electrical equipment. For example, in UK and Sweden the high-speed trains IC125 and X2000 have 50 Hz 3-phase power bus.
+

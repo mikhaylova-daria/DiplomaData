@@ -1,0 +1,20 @@
+<built-in function id>,Word,Position,Predicted,Correct
+0,Oman,150,No,PopulatedPlace
+1,Basra,156,No,PopulatedPlace
+2,Saudi,279,No,PopulatedPlace
+3,Arabia,280,No,PopulatedPlace
+4,Basra,284,No,PopulatedPlace
+5,Basra,334,No,PopulatedPlace
+6,Mecca,361,No,PopulatedPlace
+7,Muhammad,711,No,Person
+8,Sibawayh,959,No,Person
+9,Sibawayh,1007,No,Person
+10,Khalil,1116,Person,No
+11,Bin,1117,Person,No
+12,Ahmed,1118,Person,No
+13,Al,1119,Person,No
+14,Farahidi,1120,Person,No
+15,Rustaq,1126,No,PopulatedPlace
+16,Oman,1128,No,PopulatedPlace
+17,Mecca,1471,No,PopulatedPlace
+18,Basra,1495,No,PopulatedPlace

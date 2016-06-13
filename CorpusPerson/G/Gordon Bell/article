@@ -1,0 +1,65 @@
+C. Gordon Bell (born August 19, 1934) is an American electrical engineer and manager. An early employee of Digital Equipment Corporation (DEC) 1960–1966, Bell designed several of their PDP machines and later became Vice President of Engineering 1972-1983, overseeing the development of the VAX. Bell's later career includes entrepreneur, investor, founding Assistant Director of NSF's Computing and Information Science and Engineering Directorate 1986-1987, and researcher at Microsoft Research, 1995–present.
+
+Early life and education
+Chester Gordon Bell was born in Kirksville, Missouri. He grew up helping with the family business, Bell Electric, repairing appliances and wiring homes.
+
+Bell received a B.S. (1956), and M.S. (1957) in electrical engineering from MIT. He then went to the New South Wales University of Technology in Australia on a Fulbright Scholarship, where he taught classes on computer design, programmed one of the first computers to arrive in Australia (called UTECOM, an English Electric DEUCE) and published his first academic paper. Returning to the U.S., he worked in the MIT Speech Computation Laboratory under Professor Ken Stevens, where he wrote the first Analysis by Synthesis program.
+
+Career
+
+Digital Equipment Corporation
+The DEC founders Ken Olsen and Harlan Anderson recruited him for their new company in 1960, where he designed the I/O subsystem of the PDP-1, including the first UART. Bell was the architect of the PDP-4, and PDP-6. Other architectural contributions were to the PDP-5 and PDP-11 Unibus and General Registers architecture.
+
+After DEC, Bell went to Carnegie Mellon University in 1966 to teach computer science, but returned to DEC in 1972 as vice-president of engineering, where he was in charge of the VAX, DEC's most successful computer.
+
+Entrepreneur and policy advisor
+Bell retired from DEC in 1983 as the result of a heart attack, but soon after founded Encore Computer, one of the first shared memory, multiple-microprocessor computers to use the snooping cache structure.
+
+During the 1980s he became involved with public policy, becoming the first and founding Assistant Director of the CISE Directorate of the NSF, and led the cross-agency group that specified the NREN.
+
+Bell also established the ACM Gordon Bell Prize (administered by the ACM and IEEE) in 1987 to encourage development in parallel processing. The first Gordon Bell Prize was won by researchers at the Parallel Processing Division of Sandia National Laboratory for work done on the 1000-processor nCUBE 10 hypercube.
+
+He was a founding member of Ardent Computer in 1986, becoming VP of R&D 1988, and remained until it merged with Stellar in 1989, to become Stardent Computer.
+
+Microsoft Research
+Between 1991 and 1995, Bell advised Microsoft in its efforts to start a research group, then joined it full-time in August 1995, where he still works (as of 2010), studying telepresence and related ideas. He is the experiment subject for the MyLifeBits project, an experiment in life-logging (not the same as life-blogging) and an attempt to fulfill Vannevar Bush's vision of an automated store of the documents, pictures (including those taken automatically), and sounds an individual has experienced in his lifetime, to be accessed with speed and ease. For this, Bell has digitized all documents he has read or produced, CDs, emails, and so on. He continues to do so, gathering web pages browsed, phone and instant messaging conversations and the like more or less automatically. The Dutton book, Total Recall, describes the vision and implications for Lifelogging—the process of creating and maintaining a personal, lifetime e-memory for recall, work, health, education, and immortality.
+Total Recall is published in paperback as Your Life Uploaded: The Digital Way to Better Memory, Health, and Productivity.
+
+Honors
+Bell is a Fellow of the American Academy of Arts and Sciences (1994), American Association for the Advancement of Science (1983), Association for Computing Machinery (1994), IEEE (1974), and member of the National Academy of Engineering (1977), National Academy of Science (2007), and Fellow of the Australian Academy of Technological Sciences and Engineering (2009).
+
+He is also a member of the advisory board of TTI/Vanguard and a former member of the Sector Advisory Committee of Australia's Information and Communication Technology Division of the Commonwealth Scientific and Industrial Research Organization.
+
+Bell was the first recipient of the IEEE John von Neumann Medal, in 1992. His other awards include Fellow of the Computer History Museum, honorary D. Eng. from WPI, the AeA Inventor Award, the Vladimir Karapetoff Outstanding Technical Achievement Award of Eta Kappa Nu, and the 1991 National Medal of Technology by President George H.W. Bush. He was also named an Eta Kappa Nu Eminent Member in 2007.
+ 
+In 1993, Worcester Polytechnic Institute awarded Bell an Honorary Doctor of Engineering, and in 2010, Bell received an honorary Doctor of Science and Technology degree from Carnegie Mellon University. The university referred to him as "the father of the minicomputer".
+
+Bell co-founded The Computer Museum, Boston, Massachusetts, with his wife Gwen Bell in 1979. He was a founding board member of its successor, the Computer History Museum, Mountain View, California. In 2003, he was made a Fellow of the Museum "for his key role in the minicomputer revolution, and for contributions as a computer architect and entrepreneur." The story of the museum's evolution beginning in the early 1970s with Ken Olsen at Digital Equipment Corporation is described in the Microsoft Technical Report MSR-TR-2011-44, "Out of a Closet: The Early Years of The Computer x* Museum". A timeline of computing historical machines, events, and people is given on his website. It covers from B.C. to the present.
+
+Bell's law of computer classes
+
+Bell's law of computer classes was first described in 1972 with the emergence of a new, lower priced microcomputer class based on the microprocessor. Established market class computers are introduced at a constant price with increasing functionality and performance. Technology advances in semiconductors, storage, interfaces and networks enable a new computer class (platform) to form about every decade to serve a new need. Each new usually lower priced class is maintained as a quasi independent industry (market). Classes include: mainframes (1960s), minicomputers (1970s), networked workstations and personal computers (1980s), browser-web-server structure (1990s), palm computing (1995), web services (2000s), convergence of cell phones and computers (2003), and Wireless Sensor Networks aka motes (2004). Bell predicted that home and body area networks would form by 2010.
+
+Quotes
+
+From Computer World "VAX Man" interview, June 1992.
+* "Microsoft NT...is going to be very far-reaching. It's going to grab the rug out from under Unix."
+* "In 10 years, you'll see 99% of the hardware and software systems sold through what are fundamentally retail stores."
+* "Twenty-five years from now...Computers will be exactly like telephones. They are probably going to be communicating all the time ... I would hope that by the year 2000 there is this big networking infrastructure, giving us arbitrary bandwidth on a pay-as-you-go basis."
+* "Somebody once said, 'He's never wrong about the future, but he does tend to be wrong about how long it takes.' "
+
+Some of his classic sayings while working at DEC:
+* "The most reliable components are the ones you leave out."
+At the February 10, 1982, Ethernet Announcement at The World Trade Center with Bob Noyce of Intel and David Liddle of Xerox, he stated:
+* "A Broadband Cable for TV is like a sewer pipe that in principle can carry gas, water, and waste: it is easy to get all that shit in there, but hard to separate it out again."
+* "Ethernet is the UART of the 1980s."
+* "... the network becomes the system."
+
+Books
+* (with Allen Newell) Computer Structures: Readings and Examples (1971, ISBN 0-07-004357-4)
+* (with C. Mudge and J. McNamara) Computer Engineering (1978, ISBN 0-932376-00-2)
+* (with Dan Siewiorek and Allen Newell) Computer Structures: Readings and Examples (1982, ISBN 0-07-057302-6)
+* (with J. McNamara) High Tech Ventures: The Guide for Entrepreneurial Success (1991, ISBN 0-201-56321-5)
+* (with Jim Gemmell) Total Recall: How the E-Memory Revolution will Change Everything (2009, ISBN 978-0-525-95134-6)
+* (with Jim Gemmell) Your Life Uploaded: The Digital Way to Better Memory, Health, and Productivity (2010, ISBN 978-0-452-29656-5)
+

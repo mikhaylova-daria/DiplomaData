@@ -1,0 +1,26 @@
+<built-in function id>,Word,Position,Predicted,Correct
+0,John,289,No,Person
+1,and,292,Person,No
+2,Denmark,336,PopulatedPlace,No
+3,Calvin,706,No,Person
+4,Coolidge,707,No,Person
+5,Harlem,739,No,PopulatedPlace
+6,Cuba,754,No,PopulatedPlace
+7,Puerto,954,PopulatedPlace,No
+8,Rico,955,PopulatedPlace,No
+9,Associated,1072,Organisation,No
+10,Negro,1073,Organisation,No
+11,Eleanor,1336,Person,No
+12,Roosevelt,1337,Person,No
+13,New,1399,No,Organisation
+14,World,1400,No,Organisation
+15,Records,1401,No,Organisation
+16,Goldman,1407,Organisation,No
+17,Band,1408,Organisation,No
+18,Richard,1410,Person,No
+19,Franko,1411,Person,No
+20,Goldman,1412,Person,No
+21,Samuel,1450,Person,No
+22,Floyd,1451,Person,No
+23,Ruth,1616,Person,No
+24,M.,1617,Person,No

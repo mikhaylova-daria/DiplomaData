@@ -1,0 +1,21 @@
+<built-in function id>,Word,Position,Predicted,Correct
+0,Austro-Hungarian,23,PopulatedPlace,No
+1,Empire,24,PopulatedPlace,No
+2,Romania,63,No,PopulatedPlace
+3,Habsburg,103,No,PopulatedPlace
+4,Banat,107,No,PopulatedPlace
+5,of,108,No,PopulatedPlace
+6,Temeswar,109,No,PopulatedPlace
+7,Habsburg,139,No,PopulatedPlace
+8,Serbia,145,No,PopulatedPlace
+9,Democratic,254,Organisation,No
+10,Party,255,Organisation,No
+11,Albert,305,No,Person
+12,Bartha,306,No,Person
+13,Hungarian,318,No,PopulatedPlace
+14,Democratic,319,No,PopulatedPlace
+15,Republic,320,No,PopulatedPlace
+16,Romania,416,No,PopulatedPlace
+17,Novi,493,No,PopulatedPlace
+18,Sad,494,No,PopulatedPlace
+19,Romania,503,No,PopulatedPlace

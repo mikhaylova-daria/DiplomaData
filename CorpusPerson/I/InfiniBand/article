@@ -1,0 +1,49 @@
+InfiniBand (abbreviated IB) is a computer network communications link used in high-performance computing featuring very high throughput and very low latency. It is used for data interconnect both among and within computers. As of 2014 it is the most commonly used interconnect in supercomputers. InfiniBand host bus adapters and network switches are manufactured by Mellanox and Intel. Mellanox IB cards are available for Red Hat Enterprise Linux, SUSE Linux Enterprise Server, Windows, HP-UX, VMware ESX. It is designed to be scalable and uses a switched fabric network topology.
+
+As an interconnect, IB competes with Ethernet and proprietary technologies such as Cray's. In networking, IB competes with Gigabit Ethernet, 10 Gigabit Ethernet, and 100 Gigabit Ethernet. IB is used for direct-attached storage. The technology is promoted by the InfiniBand Trade Association.
+
+ Specification 
+
+ Performance +Characteristics   !! SDR !! DDR !! QDR !! FDR-10 !! FDR !! EDR !! HDR !! NDR Theoretical effective throughput, Gbs, per 1x 2 4 8 10 14.0625 25 50 Speeds for 4x and 12x (Gbit/s) 8, 24 16, 48 32, 96 41.25, 123.75 54.54, 163.64 100, 300 200, 600 Encoding (bits) 8/10 8/10 8/10 64/66 64/66 64/66 Latency (microseconds) 5 2.5 1.3 0.7 0.7 0.5 Year 2001,2003 2005 2007 2011 2014 ~2017 after 2020
+
+Links can be aggregated: most systems use a 4X aggregate. 12X links are typically used for cluster and supercomputer interconnects and for inter-switch connections.
+
+InfiniBand also provides RDMA capabilities for low CPU overhead.
+
+ Topology 
+
+InfiniBand uses a switched fabric topology, as opposed to early shared medium Ethernet. All transmissions begin or end at a channel adapter. Each processor contains a host channel adapter (HCA) and each peripheral has a target channel adapter (TCA). These adapters can also exchange information for security or quality of service (QoS).
+
+ Messages 
+
+InfiniBand transmits data in packets of up to 4 KB that are taken together to form a message. A message can be:
+* a direct memory access read from or, write to, a remote node (RDMA).
+* a channel send or receive
+* a transaction-based operation (that can be reversed)
+* a multicast transmission.
+* an atomic operation
+
+ Physical interconnection 
+
+In addition to a board form factor connection, it supports both active and passive copper (up to 30 meters) and optical fiber cable (up to 10 km). QSFP connectors are used.
+
+ API 
+
+InfiniBand has no standard API. The standard only lists a set of verbs, functions that must exist. The syntax of these functions is left to the vendors. The de facto standard software stack is that developed by OpenFabrics Alliance. It is released under two licenses GPL2 or BSD license for GNU/Linux and FreeBSD, and as WinOF under a choice of BSD license for Windows. It has been adopted by most of the InfiniBand vendors, for GNU/Linux, FreeBSD, and Windows.
+
+ History 
+
+InfiniBand originated in 1999 from the merger of two competing designs: Future I/O and Next Generation I/O. This led to the formation of the InfiniBand Trade Association, which included, Compaq, Dell, Hewlett-Packard, IBM, Intel, Microsoft, and Sun. At the time it was thought some of the more powerful computers were approaching the interconnect bottleneck of the PCI bus, in spite of upgrades like PCI-X. Version 1.0 of the InfiniBand Architecture Specification was released in 2000. Initially the IBTA vision for IB was simultaneously a replacement for PCI in I/O, Ethernet in the machine room, cluster interconnect and Fibre Channel. IBTA also envisaged decomposing server hardware on an IB fabric. Following the burst of the dot-com bubble there was hesitation in the industry to invest in such a far-reaching technology jump.
+
+ Timeline 
+
+* 2001: Mellanox ships InfiniBridge 10Gb/s devices and ships over 10,000 InfiniBand ports.
+* 2002: adoption takes a setback when Intel announces that instead of shipping IB chips it would focus on developing PCI Express, and Microsoft discontinues IB development in favor of extending Ethernet, although Sun and Hitachi continue to support IB.
+* 2003: Virginia Tech builds an InfiniBand cluster ranked number three on the Top500 at the time.
+* 2004: IB starts to see adoption as a clustering interconnect, beating Ethernet on latency and price. The OpenFabrics Alliance develops a standardized, Linux-based InfiniBand software stack. The following year Linux adds IB support.
+* 2005: IB begins to be implemented as an interconnect for storage devices.
+* 2009: of the top 500 computers in the world, Gigabit Ethernet is the internal interconnect technology in 259 installations, compared with 181 using InfiniBand.
+* 2010: Market leaders Mellanox and Voltaire merge, leaving just one other IB vendor, QLogic, primarily a Fibre Channel vendor. Oracle makes a major investment in Mellanox.
+* 2011: FDR switches and adapters announced at the International Supercomputing Conference.
+* 2012: Intel acquires QLogic's InfiniBand technology.
+

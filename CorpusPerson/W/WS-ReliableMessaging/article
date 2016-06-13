@@ -1,0 +1,43 @@
+WS-ReliableMessaging describes a protocol that allows SOAP messages to be reliably delivered between distributed applications in the presence of software component, system, or network failures.
+
+The original specification was written by BEA Systems, Microsoft, IBM, and Tibco and in March, 2003 and subsequently refined over the next two years. The February, 2005 version was submitted to the OASIS Web Services Reliable Exchange (WS-RX) Technical Committee in June of that year. The resulting docs.oasis-open.org/ws-rx/wsrm/200702 WS-ReliableMessaging 1.1 was approved as an OASIS Standard on June 14th, 2007, and v1.2 was approved on February 2, 2009.
+
+Prior to WS-ReliableMessaging, OASIS produced a competing standard (WS-Reliability) that was supported by a coalition of vendors; namely Fujitsu, Hitachi, NEC, Oracle Corporation, Progress Software, and Sun Microsystems. Most of these vendors now also support the WS-ReliableMessaging specification.
+
+Reliable Messaging Model
+An Application Source (AS) wishes to reliably send messages to an Application Destination (AD) over an unreliable infrastructure. To accomplish this they make use of a Reliable Messaging Source (RMS) and a Reliable Messaging Destination (RMD). The AS sends a message to the RMS. The RMS uses the WS-ReliableMessaging (WS-RM) protocol to transmit the message to the RMD. The RMD delivers the message to the AD. If the RMS cannot transmit the message to the RMD for some reason, it must raise an exception or otherwise indicate to the AS that the message was not transmitted. The AS and RMS may be implemented within the same process space or they may be separate components. Similarly, the AD and RMD may exist within the same process space or they may be separate components. 
+
+The important thing to keep in mind is that the WS-RM specification only deals with the contents and behavior of messages as they appear "on the wire". How messages are sent from the AS to the RMS, how they are delivered from the RMD to the AD, whether messages are persisted on-disk or held in memory, etc.; none of these considerations are part of the WS-RM specification.
+
+The WS-RM protocol defines and supports a number of Delivery Assurances. These are:
+.
+.
+.
+.
+
+Composable Architecture
+WS-ReliableMessaging uses the extensibility model of SOAP and WSDL. WS-ReliableMessaging does not define all the features required for a complete messaging solution. WS-ReliableMessaging is a building block that is used in conjunction with other Web Services specifications and application-specific protocols to build a complete messaging solution.
+
+Criticism
+This www.infoq.com/articles/no-reliable-messaging article attempts to make the case that reliability is not needed at the message level, but required at the business level.
+
+History
+*xml.coverpages.org/ws-reliablemessaging20030313.pdf WS-ReliableMessaging 200303 authored by BEA, IBM, Microsoft, and Tibco.
+*download.boulder.ibm.com/ibmdl/pub/software/dw/specs/ws-rm/ws-reliablemessaging200403.pdf WS-ReliableMessaging 200403 authored by BEA, IBM, Microsoft, and Tibco.
+*specs.xmlsoap.org/ws/2005/02/rm/ws-reliablemessaging.pdf WS-ReliableMessaging 200502 authored by BEA, IBM, Microsoft, and Tibco. This version of the specification has been implemented by a number of vendors and open source projects. It is sometimes referred to as "WS-ReliableMessaging 1.0" or "WS-RM 1.0".
+**This specification and its companion specs.xmlsoap.org/ws/2005/02/rm/WS-RMPolicy.pdf WS-RM Policy 200502 were submitted to the OASIS www.oasis-open.org/committees/tc_home.php?wg_abbrev=ws-rx Web Services Reliable Exchange (WS-RX) Technical Committee for standardization in June, 2005. 
+*docs.oasis-open.org/ws-rx/wsrm/200702/wsrm-1.1-spec-os-01-e1.pdf WS-ReliableMessaging 1.1 is the product of the above-mentioned WS-RX TC. It is accompanied by the docs.oasis-open.org/ws-rx/wsrmp/200702/wsrmp-1.1-spec-os-01-e1.pdf WS-RM Policy 1.1 and docs.oasis-open.org/ws-rx/wsmc/200702/wsmc-1.0-spec-os-01-e1.pdf WS-MakeConnection 1.0 specifications.
+**All three specifications were approved as OASIS Standards on June 14th, 2007.
+*docs.oasis-open.org/ws-rx/wsrm/200702/wsrm-1.2-spec-os.pdf WS-ReliableMessaging 1.2 The version replaces the references to pre-standard versions of WS-Policy with references to the WS-Policy W3C Recommendation (www.w3.org/TR/2007/CR-ws-policy-20070228/ WS-Policy 1.5) and fixes some minor errors. It is accompanied by the docs.oasis-open.org/ws-rx/wsrmp/200702/wsrmp-1.2-spec-os.pdf WS-RM Policy 1.2 and docs.oasis-open.org/ws-rx/wsmc/200702/wsmc-1.1-spec-os.pdf WS-MakeConnection 1.1 specifications.
+**All three specifications were approved as OASIS Standards on February 2nd, 2009.
+
+WS-ReliableMessaging Implementations
+*axis.apache.org/axis2/java/sandesha/ Apache Sandesha2
+*Apache CXF
+*WebLogic Server
+*IBM WebSphere
+*GlassFish
+*gSOAP
+*SAP NetWeaver
+*Microsoft Windows Communication Foundation
+

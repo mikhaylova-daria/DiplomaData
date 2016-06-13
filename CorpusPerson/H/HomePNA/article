@@ -1,0 +1,47 @@
+The HomePNA Alliance (formerly the Home Phoneline Networking Alliance, also known as HPNA) is an incorporated non-profit industry association of companies that develops and standardizes technology for home networking over the existing coaxial cables and telephone wiring within homes.
+
+Overview
+HomePNA does not manufacture products, although its members do. It develops technology and tests it in periodic "plugfests". Products that pass certification testing are listed on the alliance's member products page as HomePNA certified.
+
+HomePNA promoter companies are AT&T Inc., Technicolor SA, Pace plc (formerly 2Wire), Sigma Designs (formerly CopperGate), Motorola, Cisco Systems (formerly Scientific-Atlanta), Sunrise Telecom and K-Micro. HomePNA creates industry specifications which it then standardizes under the International Telecommunication Union (ITU) standards body. HomePNA also promotes the technology, tests, and certifies member products as HomePNA compliant. Devices that use HPNA technology as part of whole-home multi-media content products include Advanced Digital Broadcast, Inneoquest and NetSys.
+
+The basic technology that was adopted by HomePNA was developed by several companies. The original HomePNA 1.0 technology was developed by Tut Systems in the 1990s; HomePNA 2.0 was developed by Epigram; HomePNA 3.0 was developed by Broadcom (which had purchased Epigram) and Coppergate Communications; and HomePNA 3.1 was developed by Coppergate Communications.
+
+HomePNA 2.0 was approved by the ITU as Recommendations G.9951, G.9952 and G.9953.
+
+HomePNA 3.0 was approved by the ITU as Recommendation G.9954 in February 2005.
+
+HomePNA 3.1 was approved by the ITU as Recommendation G.9954 in January 2007.
+
+HomePNA 3.1 was developed for entertainment applications such as IPTV which require consistent high performance. This technology, which provides features such as guaranteed quality of service (QoS), is used by service providers for commercial "triple play" (video, voice and data) service offerings. HomePNA 3.1 uses frequencies above those used for Digital Subscriber Line and analog voice calls over phone wires and below those used for broadcast and direct broadcast satellite (DBS) TV over coax, so it can coexist with those services on the same wires.
+
+The original protocols used balanced pair telephone wire.
+HomePNA 3.1 added Ethernet over coax operation to overcome limitations of phone jack location.
+
+Some advantages of HomePNA 3.1 are:
+
+* No special or new home wiring is required.
+* Existing services Phone, fax, DSL, Satellite or off-the-air TV viewing are not disrupted since HomePNA operates at different frequencies on the same coax or phone wires.
+* Some products offer data rates up to 320 Mbit/s providing enough capacity to carry many High Definition TV (HDTV) and Standard Definition TV (SDTV) video streams.
+* Guaranteed QoS eliminates the "collisions" on the network that occur with simpler access methods. It enables "real time" data streams such as IPTV to be delivered without interruption.
+* A maximum of 64 devices can be connected.
+* The devices can be up to a thousand feet (300 m) apart on telephone wires and multiple thousands of feet apart over coax, more than sufficient for homes.
+* Uses standard Ethernet drivers making it easy to add to any product with an Ethernet port without regard to operating system.
+* The required hardware is not expensive.
+* Straightforward to add other technologies to create a hybrid wired/wireless home network
+* Service Providers can deliver phone, Internet and video in a single bundled package through HomePNA Certified hardware.
+* The technology works in Multi-Dwelling Units (MDU) such as apartment buildings for delivering triple play services to apartments or distributing the services within apartments. The hotel industry used it.
+
+Some disadvantages of HomePNA 3.1 are: it does not coexist with DOCSIS, and available integrated circuits ("chips") are few.
+
+In March 2009, HomePNA announced a liaison agreement with the HomeGrid Forum to promote the ITU-T G.hn wired home networking standard. In May 2013 the HomePNA alliance merged with the HomeGrid Forum.
+
+Alternatives
+Other home network systems which do not require new wiring include:
+*Power line communication, which carries data over power wiring, often including home electrical wiring, using technologies such as HomePlug or Universal Powerline Association standards
+*VDSL, VDSL2
+*Wi-Fi Wireless LANs and Bluetooth (replacing HomeRF)
+*DOCSIS
+*Multimedia over Coax Alliance (MoCA) carries data over coaxial cables, which are frequently installed to support multiple television sets throughout homes
+*CWave
+

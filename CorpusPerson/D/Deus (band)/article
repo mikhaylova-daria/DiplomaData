@@ -1,0 +1,109 @@
+Deus (styled as dEUS) is a rock band based in Antwerp, Belgium, whose only continuous members up to the present day are Tom Barman (vocals, guitars) and Klaas Janzoons (keyboards, violin). The rest of the band's line-up currently consists of drummer Stéphane Misseghers, bassist Alan Gevaert and guitarist/backing vocalist Mauro Pawlowski.
+
+History
+
+Formation
+Formed in 1991, Deus began their career as a covers band, but soon began writing their own material. Their musical influences range from folk and punk to jazz and progressive rock. They first came to attention in Humo's Rock Rally of 1992, and after the release of the four-track EP "Zea", they were offered a recording contract with Island Records. They became the first Belgian indie act ever to sign to a major international label.
+
+First era (1994-2000)
+Deus' debut album Worst Case Scenario drew influences from Frank Zappa, Tom Waits and Captain Beefheart and was released on September 16, 1994 to critical acclaim. Shortly after followed the release of a highly experimental mail-order-only album entitled My Sister My Clock, consisting of thirteen songs contained on one physical track. Their next effort In a Bar, Under the Sea followed two years later. The Ideal Crash (1999) saw the manic eccentricity channeled into a slightly more accessible package. Altogether, the band's first three albums (discounting My SisterMy Clock) sold over 750.000 copies worldwide and gathered them a cult following.
+
+Meanwhile, Deus had been subject to various line-up changes. After touring for Worst Case Scenario, guitarist Rudy Trouvé went on to Kiss My Jazz, Dead Man Ray and The Love Substitutes. By the time In a Bar, Under the Sea came out, bassist Stef Kamil Carlens had left the band to focus on Zita Swoon. They were replaced by Craig Ward and Danny Mommens respectively. Eventually, the line-up was completed by touring guitarist Tim Vanhamel (Evil Superstars, Millionaire, Eagles of Death Metal).
+
+Hiatus
+After the tour in support of The Ideal Crash, the band took an extended hiatus that allowed the individual members to pursue different interests. Barman directed a film, Any Way the Wind Blows, in 2003, and teamed up with techno record producer CJ Bolland to form Magnus in 2004. In June 2002, Deus did however play 6 concerts in Portugal, the Netherlands and Belgium, supporting the CD and DVD release of their singles collection, No More Loud Music.
+
+Second era (2004-present)
+In mid-2004 they began recording new material and playing live across Europe, and in August the download-only single "If You Don't Get What You Want" was released. On September 12, 2005 the album Pocket Revolution was released. The release of the new album was supported by a world tour of over 130 concerts. The final concert of the 2005/2006 Pocket Revolution tour took place on October 1 in Deus's hometown of Antwerp, Belgium. Deus performed that day as part of the 0110 Festival for Tolerance. This free festival, an initiative of lead singer Tom Barman, saw possibly the largest number of Belgian artists ever assembled perform that day in Antwerp, Ghent, Brussels and Charleroi in support of Tolerance and to oppose racism, extremism and violence.
+
+After finishing their Pocket Revolution tour, the band began rehearsals for the writing and recording process of their next album. In 2007 Deus built their own studio to continue work on their next album, Vantage Point, which was released in April 2008.
+
+Keep You Close was released in September 2011, featuring Greg Dulli. The title track of the album was premiered on June 16, 2011 on "C'est Lenoir", a show on radio France Inter, presented by Bernard Lenoir. The first single off the new record, "Constant Now", was released on September 19, 2011. Keep You Close received rave reviews: Q rewarded the record with 4 out of 5 stars, saying "The Belgian Elbow hit new heights on sixth effort". Sputnikmusic gave the album 5 out of 5, describing the record as "a real grower album" and "Keep you Close may not be the best Deus album ever, but it's still certainly one of the finest albums to have come out this year and one of the finest albums in the band's entire career." In October 2011, the band won the "Best Belgian Act" award at the MTV Europe Music Awards.
+
+On June 1, 2012, they surprised the music world by releasing their new album Following Sea out of the blue. Without any announcement they dropped the album on the Internet, with a physical release planned on June 8, 2012. Following Sea received glowing reviews from the Belgian and European press.
+
+Discography
+Main article:
+Deus discography
+
+Studio albums
+* Worst Case Scenario (1994)
+* In a Bar, Under the Sea (1996)
+* The Ideal Crash (1999)
+* Pocket Revolution (2005)
+* Vantage Point (2008)
+* Keep You Close (2011)
+* Following Sea (2012)
+
+EPs, DVDs and compilation albums
+* Zea (1994)
+* My Sister = My Clock (1995)
+* No More Loud Music (2001)
+* No More Video (2002)
+* Selected Songs 1994-2014 (2014)
+
+Timeline
+
+
+ImageSize = width:800 height:400
+PlotArea = left:110 bottom:120 top:0 right:30
+Alignbars = justify
+DateFormat = dd/mm/yyyy
+Period = from:01/01/1991 till:31/12/2012
+TimeAxis = orientation:horizontal format:yyyy
+
+Colors =
+ id:vocals value:purple legend:Vocals, Electric Guitar
+ id:violin value:red legend:Violin, Vocals
+ id:bass value:blue legend:Bass, Vocals
+ id:guitar value:green legend:Electric Guitar, Vocals
+ id:drums value:orange legend:Drums, Percussion
+ id:gitdrums value:pink legend:Guitar, Drums, Vocals
+ id:lines value:black legend:Studio albums
+
+Legend = orientation:vertical position:bottom columns:2
+
+ScaleMajor = increment:2 start:1991
+ScaleMinor = increment:1 start:2011
+
+LineData =
+ at:16/09/1994 color:black layer:back
+ at:14/09/1996 color:black layer:back
+ at:16/03/1999 color:black layer:back
+ at:12/09/2005 color:black layer:back
+ at:18/04/2008 color:black layer:back
+ at:17/09/2011 color:black layer:back
+ at:01/06/2012 color:black layer:back
+
+BarData =
+ bar:Tom text:"Tom Barman"
+ bar:Klaas text:"Klaas Janzoons"
+ bar:Stef text:"Stef Kamil Carlens"
+ bar:Mark text:"Mark Meyers"
+ bar:Rudy text:"Rudy Trouvé"
+ bar:Jules text:"Jules de Borgher"
+ bar:Craig text:"Craig Ward"
+ bar:Danny text:"Danny Mommens"
+ bar:Tim text:"Tim Vanhamel"
+ bar:Alan text:"Alan Gevaert"
+ bar:Mauro text:"Mauro Pawlowski"
+ bar:Stephanie text:"Stéphane Misseghers"
+
+PlotData=
+ width:10 textcolor:black align:left anchor:from shift:(10,-4)
+ bar:Tom from:01/01/1991 till:31/12/2012 color:vocals
+ bar:Klaas from:01/01/1991 till:31/12/2012 color:violin
+ bar:Stef from:01/01/1991 till:31/12/1996 color:bass
+ bar:Mark from:01/01/1991 till:01/01/1993 color:guitar
+ bar:Rudy from:01/01/1991 till:01/01/1995 color:guitar
+ bar:Jules from:01/01/1991 till:01/01/2004 color:drums
+ bar:Craig from:01/01/1995 till:31/10/2004 color:guitar
+ bar:Danny from:01/12/1996 till:31/10/2004 color:bass
+ bar:Tim from:01/01/2000 till:31/12/2000 color:guitar
+ bar:Alan from:31/10/2004 till:31/12/2012 color:bass
+ bar:Mauro from:31/10/2004 till:31/12/2012 color:guitar
+ bar:Stephanie from:01/01/2004 till:31/12/2012 color:drums
+
+
+
+

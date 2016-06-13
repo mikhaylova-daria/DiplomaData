@@ -1,0 +1,36 @@
+Alien Technology is a manufacturer of RFID technology. The company is headquartered in Morgan Hill, California, having the Alien RFID Solutions Center, in the Dayton, Ohio area, and sales offices in the United States, Europe and Asia. As of August 2010, Alien employs approximately 235 people. Alien produces (EPC) Class 1 and Class 1 Gen 2 RFID inlays, tags and readers designed for use in manufacturing lines, warehouses, distribution centers, and retail stores. 
+
+Due to potential applications in a wide variety of mass-produced electronic devices, the company received funding and technical support from a number of other manufacturers, such as DuPont Displays and Philips Components. The company has established relationships with Wal-Mart, the United States Department of Defense, The Gillette Company, Hewlett-Packard, IBM, Unisys, VeriSign, Dublin, Manhattan Associates, Microsoft, The Kennedy Group, Nashua Corporation, NCR Corporation, Zebra Technologies, and Paxar.
+
+
+
+ Fluidic Self Assembly and screen printing 
+In this process, specially shaped "nanoblock" integrated circuits (ICs) flow through a liquid solution and are distributed across a flexible film. The surface of the film is shaped micro-embossed receptor holes into which the ICs settle. The shape of the ICs and the corresponding holes are such that the ICs fall into place and self-align, hence the term Fluidic Self Assembly. After the nanoblock ICs have been placed in the substrate web, straps are made using screen printing techniques to create large contact pads of conductive ink with electrical connection to the ICs. When a strap is coupled with an IC it usually resembles a very tiny metallic bow tie. The added strap also allows for easier handling of the very small ICs and the conductive surface area makes connecting the circuits easier and more reliable. Also see; rfidsoup.pbwiki.com/Fluidic%20Self%20Assembly These methods vastly increases the amount of ICs that can be processed, increasing through-put and lowering cost.
+
+ High Speed Strap Attach Machine 
+
+The High Speed Strap Attach Machine (HiSAM) is the name given to a specialized type of high volume RFID inlay production machine. The first machine was purchased at a cost of approximately US$1.2 million and delivered to Alien Technology in May 2005. HiSAM machines are also referred to as High Speed Rotary Bonders (HRB). This equipment is made in Japan and was invented and produced by the process automation engineering company www.hallys.co.jp/en Hallys Corporation. As of October 14, 2006, four HiSAMs were ordered for delivery by Alien Technology. These special machines are used for handling, sorting, and bonding the IC straps with antennas to create finished inlays. The machines are extremely fast and capable of processing and production in very high volume — approximately 10 antennas per second or 600 inlays per minute — at very low cost.
+
+ Vulnerabilities 
+Because the Alien account has the same default password for all Alien RFID readers, the devices are prone to a security-bypass vulnerability. Remote attackers can use this information to authenticate to the device. Successful exploits may allow attackers to gain privileged access to the device or network; other attacks may also be possible. ALR-9900 is vulnerable; other models may also be affected.
+
+ Competitors 
+*www.element-id.com Element ID
+*Avery Dennison
+*Impinj
+*Intermec
+*Philips
+*SAMSys
+*ST Microelectronics
+*Symbol Technologies
+*Iaito Infotech
+*Texas Instruments
+*Tyco International
+*UPM Raflatac
+*Wirama
+
+ Partners 
+* Omni-ID
+* BlueBean
+* CYBRA
+
